@@ -14,7 +14,7 @@ class Event:
 
 
 # retrieve al attribute definitions from xml file
-tree = ET.parse('xml_files/vvv_zeeland.xml')
+tree = ET.parse('scrape_definitions/vvv_zeeland.xml')
 root = tree.getroot()
 attr_list = root.findall('event')[0]
 event_name = attr_list.find('name').text
@@ -55,7 +55,7 @@ def get_events_from_page(page_url):
         event_date = all_attr[1]
         loc = all_attr[2]
 
-        if name != '':
+        if name != '' and not event_date.__contains__("VANAF"):
             all_events.append(Event(name, event_date, loc))
 
     return all_events
@@ -66,7 +66,7 @@ def scrape_all_by_timer(url, timer):
     full_event_list = []
 
     x = 1
-    while x !=39:
+    while x != 39:
 
         # add ?p parameter to url to request data from next page
         new_url = url + "?p=" + str(x)
