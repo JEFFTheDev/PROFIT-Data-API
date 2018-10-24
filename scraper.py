@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import urllib3
 import time
 from bs4 import BeautifulSoup, SoupStrainer
+import csv
 
 
 class Event:
@@ -95,12 +96,26 @@ def get_page_data(url):
     return html_string.data
 
 
-event_list = scrape_all_by_timer(url, 2)
+# Scrape form VVV Zeeland
+event_list = scrape_all_by_timer(url, 1)
 
-event_file = open("events.txt", "w+")
+# Make .txt file
+event_text_file = open("events.txt", "w+")
 
 for e in event_list:
-    event_file.write(
+    event_text_file.write(
         "Name: " + e.name + "\n" + "Date: " + e.date + "\n" + "Location: " + e.location + "\n\n")
 
-event_file.close()
+event_text_file.close()
+
+# Make .csv file
+with open('events.csv', 'w+', newline='') as csvfile:
+    reader = csv.reader(csvfile, quotechar='|')
+    writer = csv.DictWriter(csvfile, fieldnames=['Name', 'Date', 'Location'])
+    writer.writeheader()
+    for e in event_list:
+        writer.writerow({'Name': e.name, 'Date': e.date, 'Location': e.location})
+
+
+
+

@@ -1,3 +1,27 @@
+Name: VanMuistotMammoet
+Date: 24OKTOBER
+Location: oostkapelle
+
+Name: Okijk,diefoto`svanWO-lhier
+Date: 1OKTT/M11NOV
+Location: zierikzee
+
+Name: Kinderworkshopvanwilgtotmand
+Date: 24OKTOBER
+Location: oostkapelle
+
+Name: Zoldergeheimen
+Date: 22T/M28OKTMA
+Location: oostkapelle
+
+Name: MosselpartyGoes
+Date: 24OKTOBER
+Location: goes
+
+Name: RommelmarktbijVanderLinde
+Date: 3T/M31OKTWO,ZA
+Location: ouddorp
+
 Name: Veerdiensten/RondvaartenWatertaxi
 Date: 1APRT/M31OKT
 Location: vlissingen
@@ -6,397 +30,393 @@ Name: FotografiewedstrijdHulstFoto
 Date: 6SEPT/M12NOV
 Location: hulst
 
-Name: InformatieavondgetijindeGrevelingen
-Date: 23OKTOBER
-Location: ouddorp
-
-Name: Herfstin'tPark|GroedePodium
-Date: 14T/M24OKT
-Location: groede
-
-Name: TentoonstellingplasticsoupbijAseal
-Date: 18SEPT/M31OKT
-Location: stellendam
-
-Name: Okijk,diefoto`svanWO-lhier-Haamstede
-Date: 1OKTT/M11NOV
-Location: burgh-haamstede
-
-Name: Expositie'VeranderdEilandvoorennadeRamp'
-Date: 17APRT/M4NOV
-Location: dreischor
-
-Name: FestivalvanZeeuwsch-Vlaanderen
-Date: 5T/M27OKT
-Location: zeeuws-vlaanderen
-
-Name: Grevelingenweek
-Date: 20T/M28OKT
-Location: grevelingen
-
-Name: MonumentenwandelingBurgh-Haamstede
-Date: 11JULT/M27OKT
-Location: burgh-haamstede
-
-Name: Rondwandelingbos,duinenBurgh
-Date: 
-Location: burgh-haamstede
-
-Name: RondleidingVerrassendColijnsplaat
-Date: 27JULT/M31DEC
-Location: colijnsplaat
-
-Name: PauldeMunnik
-Date: 23OKTOBER
-Location: nieuw-ensintjoosland
-
-Name: Grevelingenweek
-Date: 19T/M28OKT
-Location: goeree-overflakkee
-
-Name: SuptochtTerneuzen-OtheenseKreek
-Date: 1AUGT/M31OKT
-Location: terneuzen
-
-Name: Okijk,diefoto`svanWO-lhier
-Date: 1OKTT/M11NOV
-Location: zierikzee
-
-Name: RondleidingNehalenniaTempelteColijsplaat
-Date: 27JULT/M31DEC
-Location: colijnsplaat
-
-Name: DeTijdreis:metdeklasnaar1920
-Date: 
-Location: burgh-haamstede
-
-Name: workshop'Glossylady'
-Date: 23OKTOBER
-Location: goes
-
-Name: "EvenementRondvaartJanvanGent"
-Date: 1JANT/M31DEC
-Location: breskens
-
-Name: Kinderfilmfestival'CinekidonTour'bijdeHoutenKaap
-Date: 1T/M31OKT
-Location: ouddorp
-
-Name: Okijk,diefoto`svanWO-lhier-Brouwershaven
-Date: 1OKTT/M11NOV
-Location: brouwershaven
-
-Name: CursusTekenenenSchilderen
-Date: 12SEPT/M9JANWO
-Location: hulst
-
-Name: JEMAINTIENDRAIvrijheidvolgensJoepvanLieshout
-Date: 7OKTT/M16NOVMA,DI,WO,DO,VR
-Location: middelburg
-
-Name: ZeeuwsMuseum-Hurgronjelezingen
-Date: 24OKTOBER
-Location: middelburg
+Name: AlpacaenFalabellaRanch
+Date: 15APRT/M31OKTWO,ZA
+Location: kerkwerve
 
 Name: Tentoonstelling65geschenken'Elkeschenkingheefteeneigenverhaal'
 Date: 1APRT/M31OKT
 Location: ouwerkerk
 
-Name: ZeeuwsMuseumxDasLebenAmHaverkamp
-Date: 17FEBT/M5MEI
-Location: middelburg
-
-Name: BevelandseSkylines-KleurrijkedorpsgezichtenvanWimPhilipse
-Date: 26APRT/M26OKT
-Location: goes
-
-Name: OpzoeknaarDeGroteVijf
-Date: 24OKTOBER
-Location: zonnemaire
-
-Name: Legospeeldaginbibliotheek
-Date: 24OKTOBER
-Location: middelharnis
-
-Name: Dadodans-Papier3+
-Date: VANAF29AUGUSTUSWO,DO,VR
-Location: middelburg
-
-Name: ExcursieKabouterpadBoswachterij
-Date: 24OKTOBER
-Location: westenschouwen
-
-Name: Strandjutterstochtvoorkinderen
-Date: 17T/M24OKTWO
-Location: cadzand-bad
-
-Name: 'tOuddurpsespringfeessie
-Date: 23T/M24OKT
-Location: ouddorp
-
-Name: MosselpartyGoes
-Date: 24OKTOBER
-Location: goes
-
-Name: TentoonstellingVincentIcke:AlienArt
-Date: 1OKTT/M11NOVWO,DO,VR,ZA,ZO
-Location: sluis
-
-Name: HoutenAapkindermiddaginHoutenKaap
-Date: VANAF1MAARTWO
-Location: ouddorp
-
-Name: WeekmarktKloosterzande
-Date: 
-Location: kloosterzande
-
-Name: FransNaerebout-loodsenmensenredder
-Date: 30JUNT/M31OKT
-Location: vlissingen
-
-Name: RommelmarktbijVanderLinde
-Date: 3T/M31OKTWO,ZA
-Location: ouddorp
-
-Name: MaandvandeGeschiedenis,themaOpstand
-Date: 1T/M31OKTDI,WO,DO,VR,ZA
-Location: sommelsdijk
-
-Name: 'Hetwaterblijftkomen.Vechtentegendevloedvanmorgen'
-Date: 1APRT/M31OKT
-Location: ouwerkerk
-
-Name: Natuurrondvaart
-Date: 23T/M25OKT
-Location: burghsluis
-
-Name: Expositie'WalkofFame'DikkeToren
-Date: 13OKTT/M3NOV
-Location: zierikzee
-
-Name: AlpacaenFalabellaRanch
-Date: 15APRT/M31OKTWO,ZA
-Location: kerkwerve
-
-Name: lezing:TijlUilenspiegelendeGeuzendoorJanHutsebaut
-Date: 24OKTOBER
-Location: ijzendijke
-
-Name: SpeurtochtdoorhetBrouwsMuseum
-Date: 5APRT/M31DECMA,DI,WO,DO,VR
-Location: brouwershaven
-
-Name: VanMuistotMammoet
-Date: 24OKTOBER
-Location: oostkapelle
+Name: IndonesischeKrachtsport
+Date: 21FEBT/M18DECWO
+Location: kloetinge
 
 Name: LezingZeeuwseplaatsnamen
 Date: 24OKTOBER
 Location: sluis
 
-Name: Zoldergeheimen
-Date: 22T/M28OKTMA
-Location: oostkapelle
-
-Name: Schooltijd-waterstrijd
-Date: 7APRT/M27OKTWO,DO,VR,ZA
+Name: DeTijdreis:metdeklasnaar1920
+Date: 
 Location: burgh-haamstede
 
-Name: WisselenindeMeestoof
-Date: 1SEPT/M3NOV
-Location: sint-annaland
-
-Name: OpzoeknaardeGroteVijf
-Date: 24OKTOBER
-Location: zonnemaire
-
-Name: WeekmarktStavenisse
-Date: VANAF1JANUARIWO
-Location: stavenisse
-
-Name: Expositie‘GloeiendeGlazuren’-ChrisLanooy
-Date: 7APRT/M31OKTDI,WO,DO,VR,ZA
-Location: sint-annaland
-
-Name: Gestoldegedachten
-Date: 24OKTT/M23DECWO,DO,VR,ZA,ZO
-Location: terneuzen
-
-Name: BeklimmingSintLievensmonstertoren(DikkeToren)
-Date: 16OKTT/M3NOV
-Location: zierikzee
-
-Name: PonyrijdenopOuddorpDuin
-Date: 24OKTOBER
-Location: ouddorp
-
-Name: 'OmniaTemporaria'eeninstallatieovertijdentijdelijkheid
-Date: 6APRT/M4NOVDI,WO,DO,VR,ZA
-Location: zierikzee
-
-Name: Buitengewoon&Markant
-Date: 1DECT/M30DEC
-Location: goes
-
-Name: Overlevingsdrang-TheoVoorzaatendewereld
-Date: 1SEPT/M31DEC
-Location: zierikzee
-
-Name: Kinderworkshopbrowniesbakkenmet'TheSugarfighters'
-Date: 24OKTOBER
-Location: ouddorp
+Name: Okijk,diefoto`svanWO-lhier-Haamstede
+Date: 1OKTT/M11NOV
+Location: burgh-haamstede
 
 Name: OntdekOostkapellemeteengids
 Date: 24OKTOBER
 Location: oostkapelle
 
-Name: IndonesischeKrachtsport
-Date: 21FEBT/M18DECWO
-Location: kloetinge
+Name: ZeeuwsMuseumxDasLebenAmHaverkamp
+Date: 17FEBT/M5MEI
+Location: middelburg
+
+Name: Herfstin'tPark|GroedePodium
+Date: 14T/M24OKT
+Location: groede
+
+Name: lezing:TijlUilenspiegelendeGeuzendoorJanHutsebaut
+Date: 24OKTOBER
+Location: ijzendijke
+
+Name: TentoonstellingplasticsoupbijAseal
+Date: 18SEPT/M31OKT
+Location: stellendam
+
+Name: Legospeeldaginbibliotheek
+Date: 24OKTOBER
+Location: middelharnis
 
 Name: HerfstrittenmetdeRTM-tram
 Date: 24T/M25OKT
 Location: ouddorp
 
-Name: Foto‘Goereesevissersmetoorringen’
-Date: 20T/M27OKTZA
-Location: goedereede
+Name: Grevelingenweek
+Date: 19T/M28OKT
+Location: goeree-overflakkee
 
-Name: Kinderworkshopvanwilgtotmand
-Date: 24OKTOBER
-Location: oostkapelle
+Name: JEMAINTIENDRAIvrijheidvolgensJoepvanLieshout
+Date: 7OKTT/M16NOVMA,DI,WO,DO,VR
+Location: middelburg
+
+Name: Kinderfilmfestival'CinekidonTour'bijdeHoutenKaap
+Date: 1T/M31OKT
+Location: ouddorp
 
 Name: DitisZeeland
 Date: 13MEIT/M14APR
 Location: middelburg
 
+Name: Grevelingenweek
+Date: 20T/M28OKT
+Location: grevelingen
+
 Name: Landschappen-ZeeuwsMuseum
 Date: 18NOVT/M17FEB
 Location: middelburg
 
-Name: ZeeuwsemeestersuitdeGoudenEeuw
-Date: 1SEPT/M31DEC
-Location: zierikzee
+Name: Buitengewoon&Markant
+Date: 1DECT/M30DEC
+Location: goes
 
-Name: Bingomiddag/avondindeZwaluwSommelsdijk
-Date: 24OKTOBER
-Location: sommelsdijk
-
-Name: Bilderbuch-ZeeuwsMuseum
-Date: 29SEPT/M17FEB
-Location: middelburg
-
-Name: OpenstellingGroteKerkTholen
-Date: 28APRT/M27OKTWO,ZA
-Location: tholen
+Name: Natuurrondvaart
+Date: 23T/M25OKT
+Location: burghsluis
 
 Name: VechtentegendeBierkaai
 Date: 14JULT/M11NOV
 Location: hulst
 
-Name: TussenHoopenVrees:VeereendeGrooteOorlog(1914-1918)
-Date: 19MEIT/M25NOV
-Location: veere
+Name: WeekmarktStavenisse
+Date: VANAF1JANUARIWO
+Location: stavenisse
+
+Name: Dadodans-Papier3+
+Date: VANAF29AUGUSTUSWO,DO,VR
+Location: middelburg
+
+Name: RondleidingNehalenniaTempelteColijsplaat
+Date: 27JULT/M31DEC
+Location: colijnsplaat
+
+Name: 'OmniaTemporaria'eeninstallatieovertijdentijdelijkheid
+Date: 6APRT/M4NOVDI,WO,DO,VR,ZA
+Location: zierikzee
+
+Name: BevelandseSkylines-KleurrijkedorpsgezichtenvanWimPhilipse
+Date: 26APRT/M26OKT
+Location: goes
+
+Name: 'tOuddurpsespringfeessie
+Date: 23T/M24OKT
+Location: ouddorp
+
+Name: Expositie'WalkofFame'DikkeToren
+Date: 13OKTT/M3NOV
+Location: zierikzee
+
+Name: RondleidingVerrassendColijnsplaat
+Date: 27JULT/M31DEC
+Location: colijnsplaat
+
+Name: Schooltijd-waterstrijd
+Date: 7APRT/M27OKTWO,DO,VR,ZA
+Location: burgh-haamstede
+
+Name: MonumentenwandelingBurgh-Haamstede
+Date: 11JULT/M27OKT
+Location: burgh-haamstede
+
+Name: WeekmarktKloosterzande
+Date: 
+Location: kloosterzande
+
+Name: "EvenementRondvaartJanvanGent"
+Date: 1JANT/M31DEC
+Location: breskens
+
+Name: PonyrijdenopOuddorpDuin
+Date: 24OKTOBER
+Location: ouddorp
+
+Name: WisselenindeMeestoof
+Date: 1SEPT/M3NOV
+Location: sint-annaland
+
+Name: ZeeuwsemeestersuitdeGoudenEeuw
+Date: 1SEPT/M31DEC
+Location: zierikzee
+
+Name: OpzoeknaarDeGroteVijf
+Date: 24OKTOBER
+Location: zonnemaire
+
+Name: Foto‘Goereesevissersmetoorringen’
+Date: 20T/M27OKTZA
+Location: goedereede
+
+Name: 'Hetwaterblijftkomen.Vechtentegendevloedvanmorgen'
+Date: 1APRT/M31OKT
+Location: ouwerkerk
+
+Name: ExcursieKabouterpadBoswachterij
+Date: 24OKTOBER
+Location: westenschouwen
+
+Name: SpeurtochtdoorhetBrouwsMuseum
+Date: 5APRT/M31DECMA,DI,WO,DO,VR
+Location: brouwershaven
+
+Name: Bingomiddag/avondindeZwaluwSommelsdijk
+Date: 24OKTOBER
+Location: sommelsdijk
+
+Name: Okijk,diefoto`svanWO-lhier-Brouwershaven
+Date: 1OKTT/M11NOV
+Location: brouwershaven
+
+Name: SuptochtTerneuzen-OtheenseKreek
+Date: 1AUGT/M31OKT
+Location: terneuzen
+
+Name: FransNaerebout-loodsenmensenredder
+Date: 30JUNT/M31OKT
+Location: vlissingen
+
+Name: Kinderworkshopbrowniesbakkenmet'TheSugarfighters'
+Date: 24OKTOBER
+Location: ouddorp
+
+Name: TentoonstellingVincentIcke:AlienArt
+Date: 1OKTT/M11NOVWO,DO,VR,ZA,ZO
+Location: sluis
+
+Name: OpenstellingGroteKerkTholen
+Date: 28APRT/M27OKTWO,ZA
+Location: tholen
+
+Name: CursusTekenenenSchilderen
+Date: 12SEPT/M9JANWO
+Location: hulst
+
+Name: Bilderbuch-ZeeuwsMuseum
+Date: 29SEPT/M17FEB
+Location: middelburg
+
+Name: Expositie'VeranderdEilandvoorennadeRamp'
+Date: 17APRT/M4NOV
+Location: dreischor
+
+Name: Overlevingsdrang-TheoVoorzaatendewereld
+Date: 1SEPT/M31DEC
+Location: zierikzee
+
+Name: Expositie‘GloeiendeGlazuren’-ChrisLanooy
+Date: 7APRT/M31OKTDI,WO,DO,VR,ZA
+Location: sint-annaland
+
+Name: Strandjutterstochtvoorkinderen
+Date: 17T/M24OKTWO
+Location: cadzand-bad
+
+Name: FestivalvanZeeuwsch-Vlaanderen
+Date: 5T/M27OKT
+Location: zeeuws-vlaanderen
+
+Name: HoutenAapkindermiddaginHoutenKaap
+Date: VANAF1MAARTWO
+Location: ouddorp
 
 Name: Neemgratisjevriend(in)meenaarhetmuZEEumindeherfstvakantie
 Date: 13T/M28OKT
 Location: vlissingen
 
-Name: WeekmarktMiddelburg
-Date: 1JANT/M31DECDO
+Name: OpzoeknaardeGroteVijf
+Date: 24OKTOBER
+Location: zonnemaire
+
+Name: Gestoldegedachten
+Date: 24OKTT/M23DECWO,DO,VR,ZA,ZO
+Location: terneuzen
+
+Name: TussenHoopenVrees:VeereendeGrooteOorlog(1914-1918)
+Date: 19MEIT/M25NOV
+Location: veere
+
+Name: ZeeuwsMuseum-Hurgronjelezingen
+Date: 24OKTOBER
+Location: middelburg
+
+Name: MaandvandeGeschiedenis,themaOpstand
+Date: 1T/M31OKTDI,WO,DO,VR,ZA
+Location: sommelsdijk
+
+Name: Rondwandelingbos,duinenBurgh
+Date: 
+Location: burgh-haamstede
+
+Name: BeklimmingSintLievensmonstertoren(DikkeToren)
+Date: 16OKTT/M3NOV
+Location: zierikzee
+
+Name: Lezing‘Oplossingenvoorhoogwaterbeschermingenwereldwijd’
+Date: 25OKTOBER
+Location: ouwerkerk
+
+Name: VertelenKijkCafé
+Date: 
+Location: westkapelle
+
+Name: MaandvandeGeschiedenisStadswandelingZierikzee
+Date: 4T/M25OKTDO
+Location: zierikzee
+
+Name: Watersnood1953doordeBrilvanNu
+Date: 1FEBT/M31OKTDI,DO,VR,ZA
+Location: sommelsdijk
+
+Name: Nattelaarzentochtschorrenenslikken
+Date: 25OKTOBER
+Location: sint-annaland
+
+Name: WeekmarktSint-Annaland
+Date: VANAF1JANUARIDO
+Location: sint-annaland
+
+Name: Zinzoekers
+Date: 
+Location: aardenburg
+
+Name: RondleidingdoorWestkapelle,overdedijk,doorhetPolderhuismuseum
+Date: 
+Location: westkapelle
+
+Name: Brocanteenzo
+Date: 8JUNT/M25OKTDO
 Location: middelburg
 
 Name: EilandexpeditienaarVeermansplaat
 Date: 25OKTOBER
 Location: zonnemaire
 
-Name: WeekmarktBreskens
-Date: 1JANT/M31DECDO
+Name: Braakballenpluizen
+Date: 25OKTOBER
+Location: oostkapelle
+
+Name: HaaientandenspeurtochtOuddorp
+Date: 25OKTOBER
+Location: ouddorp
+
+Name: Kunst-envliegwerkmetMargovanDam
+Date: 22T/M25OKT
+Location: oostkapelle
+
+Name: Klim-enspringfestijn
+Date: 25T/M26OKT
+Location: oude-tonge
+
+Name: Familieactiviteit"SnuffelenaanZee"
+Date: 18T/M25OKTDO
 Location: breskens
 
 Name: Kunstworkshop:Spanningenrondomdegeschenkwoningen
 Date: 25OKTOBER
 Location: ouwerkerk
 
-Name: Kunst-envliegwerkmetMargovanDam
-Date: 22T/M25OKT
-Location: oostkapelle
-
-Name: Kunst-antiekenambachtenmarktinMiddelburg
-Date: VANAF5JULIDO
-Location: middelburg
-
-Name: VertelenKijkCafé
-Date: 
-Location: westkapelle
-
-Name: Zinzoekers
-Date: 
-Location: aardenburg
+Name: WeekmarktHeinkenszand
+Date: VANAF1JANUARIDO
+Location: heinkenszand
 
 Name: WeekmarktOud-Vossemeer
 Date: VANAF1JANUARIDO
 Location: oud-vossemeer
 
-Name: WeekmarktHeinkenszand
-Date: VANAF1JANUARIDO
-Location: heinkenszand
+Name: WeekmarktMiddelburg
+Date: 1JANT/M31DECDO
+Location: middelburg
 
-Name: Nattelaarzentochtschorrenenslikken
-Date: 25OKTOBER
-Location: sint-annaland
-
-Name: Watersnood1953doordeBrilvanNu
-Date: 1FEBT/M31OKTDI,DO,VR,ZA
-Location: sommelsdijk
-
-Name: Familieactiviteit"SnuffelenaanZee"
-Date: 18T/M25OKTDO
+Name: WeekmarktBreskens
+Date: 1JANT/M31DECDO
 Location: breskens
 
-Name: HaaientandenspeurtochtOuddorp
-Date: 23OKTOBER
-Location: ouddorp
-
-Name: WeekmarktSint-Annaland
-Date: VANAF1JANUARIDO
-Location: sint-annaland
-
-Name: Pop-upexpositieJohannisdeRijke
-Date: 25JUNT/M15NOVDO,VR,ZA,ZO
-Location: colijnsplaat
-
-Name: Lezing‘Oplossingenvoorhoogwaterbeschermingenwereldwijd’
-Date: 25OKTOBER
-Location: ouwerkerk
-
-Name: Braakballenpluizen
-Date: 25OKTOBER
-Location: oostkapelle
-
-Name: NatuurvaartochtmetEilandstop
-Date: 25OKTOBER
-Location: yerseke
-
-Name: Klim-enspringfestijn
-Date: 25T/M26OKT
-Location: oude-tonge
-
-Name: RondleidingdoorWestkapelle,overdedijk,doorhetPolderhuismuseum
-Date: 
-Location: westkapelle
+Name: Kunst-antiekenambachtenmarktinMiddelburg
+Date: VANAF5JULIDO
+Location: middelburg
 
 Name: DeleuksteRondvaartvanuitBreskens
 Date: 4SEPT/M22NOVDI,DO
 Location: breskens
 
-Name: Brocanteenzo
-Date: 8JUNT/M25OKTDO
-Location: middelburg
+Name: NatuurvaartochtmetEilandstop
+Date: 25OKTOBER
+Location: yerseke
 
-Name: MaandvandeGeschiedenisStadswandelingZierikzee
-Date: 4T/M25OKTDO
-Location: zierikzee
+Name: Pop-upexpositieJohannisdeRijke
+Date: 25JUNT/M15NOVDO,VR,ZA,ZO
+Location: colijnsplaat
+
+Name: KunstinDomburg
+Date: 1OKTT/M31DECVR,ZA,ZO
+Location: domburg
+
+Name: Maakeenhavenrondvaart
+Date: 26OKTOBER
+Location: vlissingen
+
+Name: VanPulptotPapier
+Date: 26OKTOBER
+Location: oostkapelle
+
+Name: WeekmarktYerseke
+Date: 1JANT/M31DECVR
+Location: yerseke
+
+Name: KinderconcertEllyenRikkert
+Date: 26OKTOBER
+Location: ouddorp
+
+Name: TheMeltdownGrootsteHalloweenvanZeeland
+Date: 26T/M28OKT
+Location: vlissingen
+
+Name: Woon&LifestylebeursGoeree-Overflakkee
+Date: 26T/M27OKT
+Location: middelharnis
+
+Name: NightrunStichtingJayden,citytrailbynightinGoes
+Date: 26OKTOBER
+Location: goes
 
 Name: RondleidingvisafslagenStellendamsehaven
 Date: 4MEIT/M26OKTVR
@@ -410,34 +430,6 @@ Name: Rondleidingkoeienenkalfjesknuffelen
 Date: 26OKTOBER
 Location: goedereede
 
-Name: WeekmarktSintPhilipsland
-Date: VANAF1JANUARIVR
-Location: sintphilipsland
-
-Name: VanPulptotPapier
-Date: 26OKTOBER
-Location: oostkapelle
-
-Name: NightrunStichtingJayden,citytrailbynightinGoes
-Date: 26OKTOBER
-Location: goes
-
-Name: RozemarijntjesondeugendetochtdoorIJzendijke
-Date: 26OKTOBER
-Location: ijzendijke
-
-Name: Zwartwachtendopwit
-Date: 14SEPT/M28OKTMA,VR,ZA,ZO
-Location: vlissingen
-
-Name: Halloweenspektakel:Onrustophetkerkhof
-Date: 26OKTOBER
-Location: terhole
-
-Name: TheMeltdownGrootsteHalloweenvanZeeland
-Date: 26T/M28OKT
-Location: vlissingen
-
 Name: SpeurennaarwildedierenWesterschouwen
 Date: 26OKTOBER
 Location: burgh-haamstede
@@ -446,43 +438,39 @@ Name: Halloweenexpress
 Date: 26T/M27OKT
 Location: goes
 
+Name: RozemarijntjesondeugendetochtdoorIJzendijke
+Date: 26OKTOBER
+Location: ijzendijke
+
 Name: VogelIJzendijke
 Date: 26T/M28OKT
 Location: ijzendijke
 
-Name: Woon&LifestylebeursGoeree-Overflakkee
-Date: 26T/M27OKT
-Location: middelharnis
-
-Name: Bij-kletsenmetdeimker
-Date: 26OKTOBER
-Location: oostkapelle
-
-Name: optredenMiloMeskens
-Date: 
-Location: brugge
-
-Name: WeekmarktYerseke
-Date: 1JANT/M31DECVR
-Location: yerseke
-
-Name: CharlesGroenhuijsen
-Date: 26OKTOBER
-Location: rilland
+Name: WeekmarktSintPhilipsland
+Date: VANAF1JANUARIVR
+Location: sintphilipsland
 
 Name: SpeurennaarvleermuizeninTholen
 Date: 26OKTOBER
 Location: tholen
 
-Name: MosselavondmethetBruinisserVisserskoor
+Name: Bij-kletsenmetdeimker
 Date: 26OKTOBER
-Location: sommelsdijk
+Location: oostkapelle
 
-Name: WeekmarktVlissingen
-Date: VANAF1JANUARIVR
-Location: vlissingen
+Name: Inspiratiecafé-ThemaDuurzaamheid
+Date: 26OKTOBER
+Location: aardenburg
 
-Name: KinderconcertEllyenRikkert
+Name: optredenMiloMeskens
+Date: 
+Location: brugge
+
+Name: Halloweenspektakel:Onrustophetkerkhof
+Date: 26OKTOBER
+Location: terhole
+
+Name: Kickboksclinic
 Date: 26OKTOBER
 Location: ouddorp
 
@@ -490,279 +478,251 @@ Name: JubileumweekendVolksdansverenigingHavaNaguila,Vogelwaarde
 Date: 
 Location: vogelwaarde
 
+Name: WeekmarktVlissingen
+Date: VANAF1JANUARIVR
+Location: vlissingen
+
 Name: Degroteinloopkastverkoop
 Date: 26OKTOBER
 Location: vlissingen
 
-Name: Inspiratiecafé-ThemaDuurzaamheid
-Date: 26OKTOBER
-Location: aardenburg
-
-Name: Maakeenhavenrondvaart
-Date: 26OKTOBER
+Name: Zwartwachtendopwit
+Date: 14SEPT/M28OKTMA,VR,ZA,ZO
 Location: vlissingen
-
-Name: Kickboksclinic
-Date: 26OKTOBER
-Location: ouddorp
-
-Name: WeekmarktSint-Maartensdijk
-Date: VANAF1JANUARIVR
-Location: sint-maartensdijk
-
-Name: JolijnHendriksexposeertinGalerieLuctorOudelande
-Date: 6OKTT/M24NOVMA,VR,ZA,ZO
-Location: oudelande
 
 Name: GezelligebingomiddagindeHalle,Axel
 Date: 26OKTOBER
 Location: axel
 
-Name: Kerstmarkt
-Date: 
-Location: geersdijk
+Name: JolijnHendriksexposeertinGalerieLuctorOudelande
+Date: 6OKTT/M24NOVMA,VR,ZA,ZO
+Location: oudelande
 
-Name: HalloweenbijDeDijkgraaf
-Date: 27OKTOBER
-Location: ouddorp
+Name: WeekmarktSint-Maartensdijk
+Date: VANAF1JANUARIVR
+Location: sint-maartensdijk
 
-Name: Nachtvandenacht
-Date: 27OKTOBER
-Location: goeree-overflakkee
+Name: MosselavondmethetBruinisserVisserskoor
+Date: 26OKTOBER
+Location: sommelsdijk
 
-Name: TRYOUTCabinCrew.Nieuweallroundmash-upcoverband3.0
-Date: 
-Location: hulst
-
-Name: Kerken&OrgelsLuisterrouteopGoeree-Overflakkee
-Date: 27OKTOBER
-Location: goeree-overflakkee
-
-Name: ExcursiestrandjuttenNoordzeestrand
-Date: 27OKTOBER
-Location: westenschouwen
-
-Name: NachtvandeNachtindeBraakman
-Date: 27OKTOBER
-Location: biervliet
-
-Name: Rondleidingbierbrouwerijmetbierproeverij
-Date: 1JANT/M31DECZA
-Location: goes
-
-Name: BakkerNiels,ZusterEvie,imkerBasenkerstpakketten2018
-Date: 27OKTOBER
-Location: tholen
-
-Name: Trouwfestival
-Date: 
-Location: kamperland
-
-Name: OktoberfestOuddorp
-Date: 27OKTOBER
-Location: ouddorp
-
-Name: EndofseasonsurfbijNaturalHigh
-Date: 27OKTOBER
-Location: ouddorp
+Name: CharlesGroenhuijsen
+Date: 26OKTOBER
+Location: rilland
 
 Name: Baomessemarkt
 Date: 27OKTOBER
 Location: oostburg
 
-Name: WorkshopVilten
-Date: 27T/M28OKT
-Location: cadzand-dorp
-
-Name: IndonesischeBenefietDinerShow
-Date: 
-Location: sluiskil
-
-Name: HiddenAgendaDeluxe
-Date: 27OKTOBER
-Location: oost-souburg
-
-Name: Tweedehandsboekenmarkt
-Date: 27OKTOBER
-Location: scherpenisse
-
-Name: HistorischerondleidingSlotOostende
-Date: 1JANT/M31DECZA,ZO
-Location: goes
-
-Name: NachtvandeNacht2018
-Date: 27OKTOBER
-Location: zeeland
-
-Name: WorkshopEdelsmeden:wordgoudsmidvoorèèndag
-Date: 27OKTOBER
-Location: kloetinge
-
-Name: JamcaféavondinhetJACMiddelharnis
-Date: 27OKTOBER
-Location: middelharnis
-
-Name: ContainerverkoopintuinGereformeerdeKerkStellendam
-Date: 27OKTOBER
-Location: stellendam
-
-Name: NachtgedichtenindeWatertoren
-Date: 27OKTOBER
-Location: oostburg
-
-Name: WeekmarktGoes
-Date: 1JANT/M31DECDI,ZA
-Location: goes
-
-Name: Halloweenmarkt&tocht
-Date: 27OKTOBER
-Location: renesse
-
-Name: SWART.DebuutalbumReleaseShow
-Date: 27OKTOBER
-Location: vlissingen
-
-Name: MissionMusicConcertinHerv.kerkMidd
-Date: VANAF13OKTOBERZA
-Location: middelharnis
-
-Name: HalloweenHorrorShow
-Date: 27OKTOBER
-Location: vlissingen
-
-Name: HerfstmarktOuddorp
-Date: 27OKTOBER
-Location: ouddorp
-
-Name: FrightNightMelissant
-Date: 27OKTOBER
-Location: melissant
-
-Name: CitylifeScheldetheater
-Date: 27T/M28OKT
-Location: terneuzen
-
-Name: Descheepsmotorenbrullen
-Date: 2MRTT/M31DECZA
-Location: zierikzee
-
-Name: RommelmarktMiddelburg
-Date: 4MRTT/M2DECZA
-Location: middelburg
-
-Name: Vleermuizenspeuren,Westenschouwen
-Date: 27OKTOBER
-Location: westenschouwen
-
-Name: ConcertCuiOrkest
-Date: 27OKTOBER
-Location: ouddorp
-
-Name: VersmarktVlissingen
-Date: VANAF1JANUARIZA
-Location: vlissingen
-
-Name: RondleidingNachtvandeNachtSluis
-Date: 27OKTOBER
-Location: sluis
-
-Name: NachtelijkNeeltjeJans
-Date: 27OKTOBER
-Location: vrouwenpolder
-
-Name: rommel-snuffelmarkt
-Date: 27OKTOBER
-Location: s-heerarendskerke
+Name: BezoekvuurtorenenexpositieBreskens
+Date: 1T/M31OKTVR,ZA,ZO
+Location: breskens
 
 Name: WeekmarktWemeldinge
 Date: VANAF1JANUARIZA
 Location: wemeldinge
 
-Name: Groente-enfruitmarktMiddelburg
-Date: VANAF1JANUARIZA
-Location: middelburg
-
-Name: Dagvandeclematis
-Date: 
-Location: kats
-
-Name: deZingendeFotografen
-Date: 27OKTOBER
-Location: renesse
-
-Name: NajaarsmarktGroei&BloeiZeeuws-VlaanderenenNoordBelgie
-Date: 
-Location: terneuzen
-
-Name: BezoekvuurtorenenexpositieBreskens
-Date: 1T/M31OKTVR,ZA,ZO
-Location: breskens
-
-Name: ModderenenploeterendoorHetVerdronkenLandvanSaeftinghe
-Date: 27OKTOBER
-Location: emmadorp(nieuw-namen)
-
-Name: NachtvandeNachtMiddelharnis
-Date: 27OKTOBER
-Location: middelharnis
-
-Name: ZeilraceRondjeTiengemeten
-Date: 27OKTOBER
-Location: willemstad
-
-Name: ExcursieindeYersekeMoer
-Date: 27OKTOBER
-Location: vlake
-
 Name: SiesaspeeltkomedieKomtateehu
 Date: 27OKTOBER
 Location: sasvangent
 
-Name: RommelmarktVismarktMiddelburg
-Date: 3MRTT/M1DECZA
+Name: NachtvandeNachtindeBraakman
+Date: 27OKTOBER
+Location: biervliet
+
+Name: Descheepsmotorenbrullen
+Date: 2MRTT/M31DECZA
+Location: zierikzee
+
+Name: Vleermuizenspeuren,Westenschouwen
+Date: 27OKTOBER
+Location: westenschouwen
+
+Name: Nachtvandenacht
+Date: 27OKTOBER
+Location: goeree-overflakkee
+
+Name: BakkerNiels,ZusterEvie,imkerBasenkerstpakketten2018
+Date: 27OKTOBER
+Location: tholen
+
+Name: HalloweenbijDeDijkgraaf
+Date: 27OKTOBER
+Location: ouddorp
+
+Name: JamcaféavondinhetJACMiddelharnis
+Date: 27OKTOBER
+Location: middelharnis
+
+Name: CitylifeScheldetheater
+Date: 27T/M28OKT
+Location: terneuzen
+
+Name: RondleidingNachtvandeNachtSluis
+Date: 27OKTOBER
+Location: sluis
+
+Name: OktoberfestOuddorp
+Date: 27OKTOBER
+Location: ouddorp
+
+Name: IndonesischeBenefietDinerShow
+Date: 
+Location: sluiskil
+
+Name: Groente-enfruitmarktMiddelburg
+Date: VANAF1JANUARIZA
 Location: middelburg
+
+Name: Trouwfestival
+Date: 
+Location: kamperland
+
+Name: SWART.DebuutalbumReleaseShow
+Date: 27OKTOBER
+Location: vlissingen
 
 Name: 12gezworenentheater
 Date: 27OKTOBER
 Location: middelburg
 
-Name: PaddenstoelenBoswachterij
-Date: 28OKTOBER
+Name: Halloweenmarkt&tocht
+Date: 27OKTOBER
+Location: renesse
+
+Name: NachtvandeNachtMiddelharnis
+Date: 27OKTOBER
+Location: middelharnis
+
+Name: HerfstmarktOuddorp
+Date: 27OKTOBER
+Location: ouddorp
+
+Name: ContainerverkoopintuinGereformeerdeKerkStellendam
+Date: 27OKTOBER
+Location: stellendam
+
+Name: WeekmarktGoes
+Date: 1JANT/M31DECDI,ZA
+Location: goes
+
+Name: RommelmarktVismarktMiddelburg
+Date: 3MRTT/M1DECZA
+Location: middelburg
+
+Name: MissionMusicConcertinHerv.kerkMidd
+Date: VANAF13OKTOBERZA
+Location: middelharnis
+
+Name: Rondleidingbierbrouwerijmetbierproeverij
+Date: 1JANT/M31DECZA
+Location: goes
+
+Name: VersmarktVlissingen
+Date: VANAF1JANUARIZA
+Location: vlissingen
+
+Name: WorkshopVilten
+Date: 27T/M28OKT
+Location: cadzand-dorp
+
+Name: HistorischerondleidingSlotOostende
+Date: 1JANT/M31DECZA,ZO
+Location: goes
+
+Name: HiddenAgendaDeluxe
+Date: 27OKTOBER
+Location: oost-souburg
+
+Name: NachtelijkNeeltjeJans
+Date: 27OKTOBER
+Location: vrouwenpolder
+
+Name: Kerken&OrgelsLuisterrouteopGoeree-Overflakkee
+Date: 27OKTOBER
+Location: goeree-overflakkee
+
+Name: NachtgedichtenindeWatertoren
+Date: 27OKTOBER
+Location: oostburg
+
+Name: deZingendeFotografen
+Date: 27OKTOBER
+Location: renesse
+
+Name: ExcursiestrandjuttenNoordzeestrand
+Date: 27OKTOBER
 Location: westenschouwen
+
+Name: Kerstmarkt
+Date: 
+Location: geersdijk
+
+Name: NajaarsmarktGroei&BloeiZeeuws-VlaanderenenNoordBelgie
+Date: 
+Location: terneuzen
+
+Name: FrightNightMelissant
+Date: 27OKTOBER
+Location: melissant
+
+Name: TRYOUTCabinCrew.Nieuweallroundmash-upcoverband3.0
+Date: 
+Location: hulst
+
+Name: HalloweenHorrorShow
+Date: 27OKTOBER
+Location: vlissingen
+
+Name: RommelmarktMiddelburg
+Date: 4MRTT/M2DECZA
+Location: middelburg
+
+Name: ZeilraceRondjeTiengemeten
+Date: 27OKTOBER
+Location: willemstad
+
+Name: rommel-snuffelmarkt
+Date: 27OKTOBER
+Location: s-heerarendskerke
+
+Name: WorkshopEdelsmeden:wordgoudsmidvoorèèndag
+Date: 27OKTOBER
+Location: kloetinge
+
+Name: Dagvandeclematis
+Date: 
+Location: kats
+
+Name: ConcertCuiOrkest
+Date: 27OKTOBER
+Location: ouddorp
+
+Name: Tweedehandsboekenmarkt
+Date: 27OKTOBER
+Location: scherpenisse
+
+Name: ModderenenploeterendoorHetVerdronkenLandvanSaeftinghe
+Date: 27OKTOBER
+Location: emmadorp(nieuw-namen)
+
+Name: EndofseasonsurfbijNaturalHigh
+Date: 27OKTOBER
+Location: ouddorp
+
+Name: NachtvandeNacht2018
+Date: 27OKTOBER
+Location: zeeland
+
+Name: ExcursieindeYersekeMoer
+Date: 27OKTOBER
+Location: vlake
 
 Name: FamilierondvaartNPOosterschelde
 Date: 4MRTT/M30DECZO
 Location: burghsluis
 
-Name: Herfststukjesmaken
-Date: 28OKTOBER
-Location: biervliet
-
 Name: KorrenenZeeschuimen
-Date: 28OKTOBER
-Location: oostkapelle
-
-Name: LezingauteurChrisdeStoopinHofteZandekerk
-Date: 28OKTOBER
-Location: kloosterzande
-
-Name: BespelingcarillonBelfortSluis
-Date: 24SEPT/M31DECZO
-Location: sluis
-
-Name: ZeehondenSafarivanuitZierikzee
-Date: 28OKTOBER
-Location: zierikzee
-
-Name: DJworkshop7-16jaar
-Date: 
-Location: kortgene
-
-Name: Strijkersfestival-QuartuordelaChapelleSauvage
-Date: 28OKTOBER
-Location: waterlandkerkje
-
-Name: RondleidingdeMantelingbijKasteelWesthove
 Date: 28OKTOBER
 Location: oostkapelle
 
@@ -770,49 +730,81 @@ Name: StorytrailstadswandelingZierikzeemetverhalenverteller
 Date: 28OKTOBER
 Location: zierikzee
 
+Name: DJworkshop7-16jaar
+Date: 
+Location: kortgene
+
+Name: PaddenstoelenBoswachterij
+Date: 28OKTOBER
+Location: westenschouwen
+
+Name: RondleidingdeMantelingbijKasteelWesthove
+Date: 28OKTOBER
+Location: oostkapelle
+
+Name: Herfststukjesmaken
+Date: 28OKTOBER
+Location: biervliet
+
 Name: JubileumconcertZeeuws-VlaamsKamerkoor
 Date: 28OKTOBER
 Location: aardenburg
 
-Name: Hetbolwerkgeefteenrondje
+Name: Strijkersfestival-QuartuordelaChapelleSauvage
 Date: 28OKTOBER
-Location: ijzendijke
+Location: waterlandkerkje
+
+Name: BespelingcarillonBelfortSluis
+Date: 24SEPT/M31DECZO
+Location: sluis
 
 Name: HetBolwerkgeefteenrondje
 Date: 28OKTOBER
 Location: ijzendijke
 
-Name: RondleidingopdePaardenmelkerij
-Date: VANAF6JUNIMA
-Location: oostburg
+Name: Hetbolwerkgeefteenrondje
+Date: 28OKTOBER
+Location: ijzendijke
 
-Name: AQUARELLEREN
-Date: 22OKTT/M7OKTMA
-Location: hulst
+Name: LezingauteurChrisdeStoopinHofteZandekerk
+Date: 28OKTOBER
+Location: kloosterzande
 
-Name: TangosalonArgentinoelkemaandagavond
-Date: 17SEPT/M24DECMA
-Location: middelburg(nl)
+Name: ZeehondenSafarivanuitZierikzee
+Date: 28OKTOBER
+Location: zierikzee
 
 Name: WeekmarktHulst
 Date: 
 Location: hulst
 
-Name: Bezoekersdagopdepaardenmelkerij
-Date: VANAF11JULIMA
+Name: RondleidingopdePaardenmelkerij
+Date: VANAF6JUNIMA
 Location: oostburg
 
-Name: DeSamenkamer
-Date: 3SEPT/M31DECMA
-Location: aardenburg
+Name: TangosalonArgentinoelkemaandagavond
+Date: 17SEPT/M24DECMA
+Location: middelburg(nl)
 
 Name: NiederländischfürdeutscheGäste
 Date: 29JANT/M4DEC
 Location: breskens
 
+Name: DeSamenkamer
+Date: 3SEPT/M31DECMA
+Location: aardenburg
+
+Name: AQUARELLEREN
+Date: 22OKTT/M7OKTMA
+Location: hulst
+
 Name: WintercompetitieBridge
 Date: 10SEPT/M20MEIMA
 Location: goedereede
+
+Name: Bezoekersdagopdepaardenmelkerij
+Date: VANAF11JULIMA
+Location: oostburg
 
 Name: ZeehondenSafarivanuitZierikzee
 Date: 7AUGT/M31OKTDI
@@ -822,29 +814,45 @@ Name: WeekmarktSasvanGent
 Date: 
 Location: sasvangent
 
-Name: JavierGuzman
-Date: 30OKTOBER
-Location: nieuw-ensintjoosland
-
-Name: RondwandelingStruikelstenen
-Date: 15MEIT/M31DECDI
-Location: zierikzee
-
-Name: LezingGoeree-OverflakkeetijdensWOI
-Date: 30OKTOBER
-Location: oudetonge
+Name: WeekmarktPoortvliet
+Date: VANAF1JANUARIDI
+Location: poortvliet
 
 Name: TheKilkennys&Scrum
 Date: 30OKTOBER
 Location: vlissingen
 
-Name: Bijbelochtend
-Date: 
-Location: aardenburg
+Name: RondwandelingStruikelstenen
+Date: 15MEIT/M31DECDI
+Location: zierikzee
 
 Name: KleurSamen
 Date: 
 Location: aardenburg
+
+Name: WeekmarktScherpenisse
+Date: VANAF1JANUARIDI
+Location: scherpenisse
+
+Name: WeekmarktVogelwaarde
+Date: 
+Location: vogelwaarde
+
+Name: JavierGuzman
+Date: 30OKTOBER
+Location: nieuw-ensintjoosland
+
+Name: Bijbelochtend
+Date: 
+Location: aardenburg
+
+Name: GroteVeerseQuiz
+Date: 30OKTOBER
+Location: veere
+
+Name: LezingGoeree-OverflakkeetijdensWOI
+Date: 30OKTOBER
+Location: oudetonge
 
 Name: CreaSamen
 Date: 
@@ -854,22 +862,6 @@ Name: WeekmarktKapelle
 Date: VANAF1JANUARIDI
 Location: kapelle
 
-Name: WeekmarktPoortvliet
-Date: VANAF1JANUARIDI
-Location: poortvliet
-
-Name: WeekmarktVogelwaarde
-Date: 
-Location: vogelwaarde
-
-Name: WeekmarktScherpenisse
-Date: VANAF1JANUARIDI
-Location: scherpenisse
-
-Name: GroteVeerseQuiz
-Date: 30OKTOBER
-Location: veere
-
 Name: WeekmarktAardenburg
 Date: 
 Location: aardenburg
@@ -878,109 +870,81 @@ Name: Tentoonstelling'SchrijversinSluis'
 Date: 30OKTT/M14NOVWO,DO,VR,ZA,ZO
 Location: sluis
 
-Name: JeugdHerfstspeurtocht
-Date: 31OKTOBER
-Location: stellendam
-
 Name: TheosophyTalks:DeBorobudurendeBuddha
 Date: 31OKTOBER
 Location: middelburg
 
-Name: DeRevisordoorTheatergroepZierik
-Date: 1T/M3NOV
-Location: zierikzee
+Name: JeugdHerfstspeurtocht
+Date: 31OKTOBER
+Location: stellendam
 
 Name: MosselenoesterrondleidingYerseke
 Date: 1NOVEMBER
 Location: yerseke
 
-Name: Concert'TheNordanians'indeOverkant
-Date: 1NOVEMBER
-Location: ouddorp
-
 Name: TheJigantics
 Date: 1NOVEMBER
 Location: nieuw-ensintjoosland
 
-Name: ThunderfromDownunder
-Date: 2NOVEMBER
-Location: ccxltheater
+Name: DeRevisordoorTheatergroepZierik
+Date: 1T/M3NOV
+Location: zierikzee
 
-Name: ThunderfromDownunder
-Date: 2NOVEMBER
-Location: ccxltheater
-
-Name: OntmoetingsdageninExoduskerk
-Date: 2T/M3NOV
-Location: sommelsdijk
-
-Name: NajaarsconcertGemengdeZangverenigingApollo
-Date: 2NOVEMBER
-Location: nieuwe-tonge
-
-Name: ExpositieFotoclubDow
-Date: 2T/M4NOV
-Location: terneuzen
-
-Name: ConsumentenbeursVision
-Date: 2T/M3NOV
+Name: Concert'TheNordanians'indeOverkant
+Date: 1NOVEMBER
 Location: ouddorp
+
+Name: ThunderfromDownunder
+Date: 2NOVEMBER
+Location: ccxltheater
+
+Name: ThunderfromDownunder
+Date: 2NOVEMBER
+Location: ccxltheater
 
 Name: PatrickNederkoorn-cabaretier
 Date: 2NOVEMBER
 Location: wissenkerke
 
+Name: NajaarsconcertGemengdeZangverenigingApollo
+Date: 2NOVEMBER
+Location: nieuwe-tonge
+
 Name: CanadeesWandelweekend
 Date: 2T/M4NOV
 Location: 
-
-Name: Muziektheater‘SolitaryHigh’inhetDiekhuus
-Date: 2NOVEMBER
-Location: middelharnis
-
-Name: TheHighKing's
-Date: 2NOVEMBER
-Location: rilland
 
 Name: Mysterytour2018
 Date: 2NOVEMBER
 Location: goes
 
+Name: OntmoetingsdageninExoduskerk
+Date: 2T/M3NOV
+Location: sommelsdijk
+
+Name: ExpositieFotoclubDow
+Date: 2T/M4NOV
+Location: terneuzen
+
 Name: TheEx(nl)
 Date: 2NOVEMBER
 Location: brugge
+
+Name: ConsumentenbeursVision
+Date: 2T/M3NOV
+Location: ouddorp
+
+Name: Muziektheater‘SolitaryHigh’inhetDiekhuus
+Date: 2NOVEMBER
+Location: middelharnis
 
 Name: ThunderfromDownunder-CCXLTheater
 Date: 2NOVEMBER
 Location: ccxltheater
 
-Name: Inloopfotoworkshop
-Date: 3NOVEMBER
-Location: ouddorp
-
-Name: NatuurwerkdagZeeland
-Date: 3NOVEMBER
-Location: 
-
-Name: RondleidingoesterputtenYerseke
-Date: 3T/M4NOV
-Location: yerseke
-
-Name: SiesaspeeltkomedieKomtateehu
-Date: 3NOVEMBER
-Location: axel
-
-Name: NOVAFilmfestival2018inVlissingenop3&4november
-Date: 3T/M4NOV
-Location: vlissingen
-
-Name: NatuurwerkdaginKleistee
-Date: 3NOVEMBER
-Location: ouddorp
-
-Name: RoodkapjeinHoutenKaap
-Date: 3NOVEMBER
-Location: ouddorp
+Name: TheHighKing's
+Date: 2NOVEMBER
+Location: rilland
 
 Name: JohnnyCashAtSeainVlissingen
 Date: 3NOVEMBER
@@ -990,6 +954,42 @@ Name: JubileumConcertStefanvandeSande
 Date: 3NOVEMBER
 Location: vlissingen
 
+Name: RondleidingoesterputtenYerseke
+Date: 3T/M4NOV
+Location: yerseke
+
+Name: OeTooierOeMooier
+Date: 3NOVEMBER
+Location: westkapelle
+
+Name: TheatershowpopkoorSeasideRendez-Vous
+Date: 3T/M4NOV
+Location: goes
+
+Name: NOVAFilmfestival2018inVlissingenop3&4november
+Date: 3T/M4NOV
+Location: vlissingen
+
+Name: NatuurwerkdagZeeland
+Date: 3NOVEMBER
+Location: 
+
+Name: SiesaspeeltkomedieKomtateehu
+Date: 3NOVEMBER
+Location: axel
+
+Name: PlatenenCDBeurs
+Date: 3NOVEMBER
+Location: renesse
+
+Name: NatuurwerkdaginKleistee
+Date: 3NOVEMBER
+Location: ouddorp
+
+Name: Inloopfotoworkshop
+Date: 3NOVEMBER
+Location: ouddorp
+
 Name: Memoriawandeltocht
 Date: 3NOVEMBER
 Location: westkapelle
@@ -998,25 +998,21 @@ Name: OpenDagZeeuwsArchief
 Date: 3NOVEMBER
 Location: middelburg
 
-Name: TheatershowpopkoorSeasideRendez-Vous
-Date: 3T/M4NOV
-Location: goes
-
-Name: OeTooierOeMooier
+Name: RoodkapjeinHoutenKaap
 Date: 3NOVEMBER
-Location: westkapelle
+Location: ouddorp
 
-Name: ConcertenVlissingenpresenteert:LauraTrompetter,slagwerksolo
+Name: Kleuterbios:DisneyJuniorParty
 Date: 4NOVEMBER
-Location: depakhuizenvanhetmuzeeumvlissingen
+Location: vlissingen
 
 Name: MargrietSjoerdsma&EgbertDerix
 Date: 4NOVEMBER
 Location: 's-heerarendskerke
 
-Name: Kleuterbios:DisneyJuniorParty
+Name: ConcertenVlissingenpresenteert:LauraTrompetter,slagwerksolo
 Date: 4NOVEMBER
-Location: vlissingen
+Location: depakhuizenvanhetmuzeeumvlissingen
 
 Name: TrailbytheSea
 Date: 4NOVEMBER
@@ -1026,13 +1022,13 @@ Name: RecreatiewandelingW.S.V.WillenisKunnenVlissingen
 Date: 7NOVEMBER
 Location: vlissingen
 
-Name: FeestmiddagmetzangeresSandraMooy
-Date: 7NOVEMBER
-Location: axel
-
 Name: OuddorpCreatief
 Date: 7NOVEMBER
 Location: ouddorp
+
+Name: FeestmiddagmetzangeresSandraMooy
+Date: 7NOVEMBER
+Location: axel
 
 Name: MichaelMcDermott&HeatherHorton
 Date: 8NOVEMBER
@@ -1042,45 +1038,49 @@ Name: Level42
 Date: 8NOVEMBER
 Location: ccxltheater
 
-Name: Vogelshow
-Date: 9T/M10NOV
-Location: oudvossemeer
-
 Name: Piepschuim
 Date: 9NOVEMBER
 Location: nieuw-ensintjoosland
+
+Name: Vogelshow
+Date: 9T/M10NOV
+Location: oudvossemeer
 
 Name: FacesonTV(b)
 Date: 10NOVEMBER
 Location: brugge
 
-Name: JacquelineFortes
+Name: OrgelconcertWimMagré
 Date: 10NOVEMBER
-Location: oost-souburg
-
-Name: 'Halve'BingomarathonopRCNToppershoedje
-Date: 10NOVEMBER
-Location: ouddorp
+Location: terneuzen
 
 Name: ConcertvanVocaalEnsembleMagnificat
 Date: 10NOVEMBER
 Location: dirksland
 
-Name: HetGroteBellExperiment
-Date: 10NOVEMBER
-Location: goes
-
 Name: Streekproductenmarkt
 Date: 10T/M11NOV
 Location: sluis
+
+Name: JacquelineFortes
+Date: 10NOVEMBER
+Location: oost-souburg
 
 Name: Mannenontbijt
 Date: 10NOVEMBER
 Location: westkapelle
 
-Name: OrgelconcertWimMagré
+Name: 'Halve'BingomarathonopRCNToppershoedje
 Date: 10NOVEMBER
-Location: terneuzen
+Location: ouddorp
+
+Name: NatuurtochtverdronkenlandvanZuid-Beveland
+Date: 10NOVEMBER
+Location: rilland
+
+Name: HetGroteBellExperiment
+Date: 10NOVEMBER
+Location: goes
 
 Name: 50steMosselloopBoswachterij
 Date: 10NOVEMBER
@@ -1090,49 +1090,49 @@ Name: JanvanDammeingesprekmetschrijverRinusSpruit
 Date: 10NOVEMBER
 Location: groede
 
-Name: NatuurtochtverdronkenlandvanZuid-Beveland
-Date: 10NOVEMBER
-Location: rilland
+Name: MuziekCafémet'Beehive'inhetDiekhuus
+Date: 11NOVEMBER
+Location: middelharnis
 
 Name: Keltischemuziekin'sHeerHendrikskinderen
 Date: 11NOVEMBER
 Location: 'sheerhendrikskinderen
 
-Name: MuziekCafémet'Beehive'inhetDiekhuus
-Date: 11NOVEMBER
-Location: middelharnis
-
 Name: Vanpulptotpapier
 Date: 11NOVEMBER
 Location: oostkapelle
-
-Name: Filmmarathon:FantasticBeasts
-Date: 13NOVEMBER
-Location: vlissingen
 
 Name: WimJansen|Over‘Broninjebrein’
 Date: 13NOVEMBER
 Location: aardenburg
 
+Name: Filmmarathon:FantasticBeasts
+Date: 13NOVEMBER
+Location: vlissingen
+
 Name: Coldplay-AHeadFullofDreams
 Date: 14NOVEMBER
 Location: vlissingen
-
-Name: LadiesNightinHoutenKaap
-Date: 15NOVEMBER
-Location: ouddorp
 
 Name: Lezing'GrootoudersvoorhetKlimaat'
 Date: 15NOVEMBER
 Location: ouwerkerk
 
-Name: TheatergesprekFoppedeHaan&EverttenNapelinhetDiekhuus
-Date: 16NOVEMBER
-Location: middelharnis
+Name: LadiesNightinHoutenKaap
+Date: 15NOVEMBER
+Location: ouddorp
 
 Name: SuffetuttenDisco!
 Date: 16NOVEMBER
 Location: s"heerenhoek
+
+Name: Winterfairoosterland
+Date: 16NOVEMBER
+Location: oosterland
+
+Name: TheatergesprekFoppedeHaan&EverttenNapelinhetDiekhuus
+Date: 16NOVEMBER
+Location: middelharnis
 
 Name: HerfstwandelingdoordeManteling
 Date: 16NOVEMBER
@@ -1142,17 +1142,13 @@ Name: wintermarkt
 Date: 16T/M17NOV
 Location: kloosterande
 
-Name: Winterfairoosterland
-Date: 16NOVEMBER
-Location: oosterland
-
 Name: SinterklaasintochtMelissant
 Date: 17NOVEMBER
 Location: melissant
 
-Name: Wand(us)+Darto(us)
-Date: 17NOVEMBER
-Location: brugge
+Name: SnuffelmarktZeelandhallenGoes
+Date: 17T/M18NOV
+Location: goes
 
 Name: Rommel-SnuffelmarktOvezande
 Date: 17NOVEMBER
@@ -1162,41 +1158,41 @@ Name: SinterklaasintochtBreskens
 Date: 17NOVEMBER
 Location: breskens
 
-Name: SinterklaasintochthavenMiddelharnis
-Date: 17NOVEMBER
-Location: middelharnis
-
 Name: KlassiekconcertindeSt.MaartenskerkteBaarland
 Date: 17NOVEMBER
 Location: baarland
 
-Name: SinterklaasintochtOuddorp
+Name: SinterklaasintochthavenMiddelharnis
 Date: 17NOVEMBER
-Location: ouddorp
+Location: middelharnis
 
-Name: SnuffelmarktZeelandhallenGoes
-Date: 17T/M18NOV
-Location: goes
+Name: Wand(us)+Darto(us)
+Date: 17NOVEMBER
+Location: brugge
 
 Name: SinterklaasintochtGoes
 Date: 17NOVEMBER
 Location: goes
 
+Name: SinterklaasintochtOuddorp
+Date: 17NOVEMBER
+Location: ouddorp
+
 Name: HuisvanSinterklaas
 Date: 18NOVT/M5DECZO
-Location: hulst
-
-Name: SinterklaasintochtHulst
-Date: 18NOVEMBER
-Location: hulst
-
-Name: Veldtoertocht"TochtderTochten"
-Date: 18NOVEMBER
 Location: hulst
 
 Name: STEMMENUITDELOOPGRAVEN
 Date: 18NOVEMBER
 Location: aardenburg
+
+Name: Veldtoertocht"TochtderTochten"
+Date: 18NOVEMBER
+Location: hulst
+
+Name: SinterklaasintochtHulst
+Date: 18NOVEMBER
+Location: hulst
 
 Name: Filmavondin'deOverkant'
 Date: 21NOVEMBER
@@ -1210,49 +1206,57 @@ Name: BeeldpresentatieMalawi
 Date: 22NOVEMBER
 Location: ouddorp
 
-Name: MuziekvanMarjoleinMeijersinhetDiekhuus
-Date: 23NOVEMBER
-Location: middelharnis
-
 Name: Inspiratiecafé-ThemaLoslateneneenvoorbereidingopKerst
 Date: 23NOVEMBER
 Location: aardenburg
-
-Name: Verbraak&VanBijnen
-Date: 23NOVEMBER
-Location: nieuw-ensintjoosland
-
-Name: OptredenLubomyrMelnyk
-Date: 23NOVEMBER
-Location: brugge
-
-Name: Bij-kletsenmetdeimker
-Date: 23NOVEMBER
-Location: oostkapelle
-
-Name: FamiliefairOoltgensplaat
-Date: 23NOVEMBER
-Location: ooltgensplaat
 
 Name: Toneelgroep"GrofBrood"speelt"Devermoordeonschuld"
 Date: 23T/M24NOV
 Location: hulst
 
+Name: Bij-kletsenmetdeimker
+Date: 23NOVEMBER
+Location: oostkapelle
+
+Name: Verbraak&VanBijnen
+Date: 23NOVEMBER
+Location: nieuw-ensintjoosland
+
+Name: FamiliefairOoltgensplaat
+Date: 23NOVEMBER
+Location: ooltgensplaat
+
+Name: OptredenLubomyrMelnyk
+Date: 23NOVEMBER
+Location: brugge
+
+Name: MuziekvanMarjoleinMeijersinhetDiekhuus
+Date: 23NOVEMBER
+Location: middelharnis
+
+Name: WintermarktindeGereformeerdekerk
+Date: 24NOVEMBER
+Location: ouddorp
+
+Name: SinterklaasintochtRenesse
+Date: 24NOVEMBER
+Location: renesse
+
+Name: QmusictheParty–4uurFOUTkomtnaarBurgh-Haamstede!
+Date: 24T/M25NOV
+Location: burgh-haamstede
+
 Name: SinterklaasfeestmetAgeethdeHaaninHoutenKaap
 Date: 24NOVEMBER
 Location: ouddorp
 
-Name: SintNicolaastocht
-Date: 24NOVEMBER
-Location: vlissingen
-
-Name: DansavondinMiddelharnis
+Name: StarkLinnemanninhetDiekhuus
 Date: 24NOVEMBER
 Location: middelharnis
 
-Name: WinterfairOuddorp
+Name: MaikelHarteTryouteindejaarsshow
 Date: 24NOVEMBER
-Location: ouddorp
+Location: wissenkerke
 
 Name: LisaLois&TheYoungOnes
 Date: 24NOVEMBER
@@ -1262,9 +1266,13 @@ Name: SnuffelmarktDorpshuisEllemeet
 Date: 24NOVEMBER
 Location: ellemeet
 
-Name: SinterklaasintochtRenesse
+Name: WinterfairOuddorp
 Date: 24NOVEMBER
-Location: renesse
+Location: ouddorp
+
+Name: DansavondinMiddelharnis
+Date: 24NOVEMBER
+Location: middelharnis
 
 Name: SinterklaasintochtStellendam
 Date: 24NOVEMBER
@@ -1274,33 +1282,21 @@ Name: Mr.BoogieWoogie
 Date: 24NOVEMBER
 Location: oost-souburg
 
-Name: WintermarktindeGereformeerdekerk
-Date: 24NOVEMBER
-Location: ouddorp
-
-Name: MaikelHarteTryouteindejaarsshow
-Date: 24NOVEMBER
-Location: wissenkerke
-
-Name: QmusictheParty–4uurFOUTkomtnaarBurgh-Haamstede!
-Date: 24T/M25NOV
-Location: burgh-haamstede
-
 Name: Stampin'Up!Kerstkaartenworkshop
 Date: 24NOVEMBER
 Location: goedereede
 
-Name: StarkLinnemanninhetDiekhuus
+Name: SintNicolaastocht
 Date: 24NOVEMBER
-Location: middelharnis
-
-Name: TheosophyTalks:Welofgeeneuthanasieenorgaandonatie?
-Date: 28NOVEMBER
-Location: middelburg
+Location: vlissingen
 
 Name: 7eCultureleWeekOoltgensplaat
 Date: 28NOVT/M1DEC
 Location: ooltgensplaat
+
+Name: TheosophyTalks:Welofgeeneuthanasieenorgaandonatie?
+Date: 28NOVEMBER
+Location: middelburg
 
 Name: KatinkaPolderman
 Date: 29NOVEMBER
@@ -1310,6 +1306,18 @@ Name: BingoindeBommelstee
 Date: 29NOVEMBER
 Location: denbommel
 
+Name: WorldPressPhotoExhibition
+Date: 30NOVT/M20DEC
+Location: hulst
+
+Name: CabaretvanBenjaminvanderVeldeninhetDiekhuus
+Date: 30NOVEMBER
+Location: middelharnis
+
+Name: TheKilkennys&Scrum
+Date: 30NOVEMBER
+Location: ccxltheater
+
 Name: IrisHond
 Date: 30NOVEMBER
 Location: rilland
@@ -1318,41 +1326,29 @@ Name: EngeBuren
 Date: 30NOVEMBER
 Location: nieuw-ensintjoosland
 
-Name: CabaretvanBenjaminvanderVeldeninhetDiekhuus
-Date: 30NOVEMBER
+Name: Kinderfilm'DeClubvanSinterklaas'inhetDiekhuus
+Date: 1DECEMBER
 Location: middelharnis
 
-Name: WorldPressPhotoExhibition
-Date: 30NOVT/M20DEC
-Location: hulst
+Name: SnertwandeltochtOuddorp
+Date: 1DECEMBER
+Location: ouddorp
 
-Name: TheKilkennys&Scrum
-Date: 30NOVEMBER
+Name: MichelleDavid&TheGospelSessions
+Date: 1DECEMBER
+Location: renesse
+
+Name: DeverjaardagvanSinterklaas
+Date: 1DECEMBER
 Location: ccxltheater
 
 Name: Beak>+SpillGold
 Date: 1DECEMBER
 Location: brugge
 
-Name: SnertwandeltochtOuddorp
-Date: 1DECEMBER
-Location: ouddorp
-
-Name: DeverjaardagvanSinterklaas
-Date: 1DECEMBER
-Location: ccxltheater
-
-Name: MichelleDavid&TheGospelSessions
-Date: 1DECEMBER
-Location: renesse
-
 Name: DeVerjaardagvanSinterklaas-CCXLTheater
 Date: 1DECEMBER
 Location: vlissingen
-
-Name: Kinderfilm'DeClubvanSinterklaas'inhetDiekhuus
-Date: 1DECEMBER
-Location: middelharnis
 
 Name: StorytrailstadswandelingMiddelburgmetverhalenverteller
 Date: 2DECEMBER
@@ -1362,53 +1358,53 @@ Name: UitzwaaienSinterklaas
 Date: 6DECEMBER
 Location: hulst
 
-Name: KerstmarktGoes
-Date: 7T/M8DEC
-Location: goes
-
 Name: KerstmarktGer.KerkStellendam
 Date: 7DECEMBER
 Location: stellendam
 
-Name: NatuurrondGoedereede-Havenhoofd
-Date: 8DECEMBER
-Location: goedereede-havenhoofd
-
-Name: MashaendeBeerlive!(2+)
-Date: 8DECEMBER
-Location: ccxltheater
-
-Name: ZeeuwseFotosalon2018
-Date: 8DECT/M31JANDI,WO,DO,VR,ZA
-Location: heinkenszand
-
-Name: LichtfestivalKnokkeHeist
-Date: 8T/M16DECZA,ZO
-Location: knokkeheist
+Name: KerstmarktGoes
+Date: 7T/M8DEC
+Location: goes
 
 Name: AdventsconcertUrkerMansFormatie
 Date: 8DECEMBER
 Location: dirksland
 
-Name: BoerBorisindeHoutenKaap
-Date: 8DECEMBER
-Location: ouddorp
+Name: LichtfestivalKnokkeHeist
+Date: 8T/M16DECZA,ZO
+Location: knokkeheist
 
-Name: KOMmetjeSnertocht
-Date: 8DECEMBER
-Location: sintmaartensdijk
-
-Name: KerstmarktGoedereede
-Date: 8DECEMBER
-Location: goedereede
+Name: ZeeuwseFotosalon2018
+Date: 8DECT/M31JANDI,WO,DO,VR,ZA
+Location: heinkenszand
 
 Name: WinterfairDoopsgezindeGemeente
 Date: 8DECEMBER
 Location: ouddorp
 
+Name: KerstmarktGoedereede
+Date: 8DECEMBER
+Location: goedereede
+
+Name: BoerBorisindeHoutenKaap
+Date: 8DECEMBER
+Location: ouddorp
+
+Name: NatuurrondGoedereede-Havenhoofd
+Date: 8DECEMBER
+Location: goedereede-havenhoofd
+
 Name: Terugnaardejaren‘30
 Date: 8DECEMBER
 Location: 'sheerabtskerke
+
+Name: KOMmetjeSnertocht
+Date: 8DECEMBER
+Location: sintmaartensdijk
+
+Name: MashaendeBeerlive!(2+)
+Date: 8DECEMBER
+Location: ccxltheater
 
 Name: BOEKENMARKTVLISSINGEN(énmuziek!)
 Date: 8DECEMBER
@@ -1418,13 +1414,13 @@ Name: JongerendienstindeGereformeerdeKerk
 Date: 9DECEMBER
 Location: stellendam
 
-Name: MuziekCafé'TheMagicalMysteryBand'inhetDiekhuus
-Date: 9DECEMBER
-Location: middelharnis
-
 Name: Lukic
 Date: 9DECEMBER
 Location: nieuw-ensintjoosland
+
+Name: MuziekCafé'TheMagicalMysteryBand'inhetDiekhuus
+Date: 9DECEMBER
+Location: middelharnis
 
 Name: LichtjestochtW.S.V.WillenisKunnenVlissingen
 Date: 12DECEMBER
@@ -1442,7 +1438,7 @@ Name: Filmvoorvolwasseneninde
 Date: 13DECEMBER
 Location: ouddorp
 
-Name: Feestavondin’tHaegseHuus
+Name: WinterfairHaegseHuusStellendam
 Date: 14DECEMBER
 Location: stellendam
 
@@ -1454,39 +1450,35 @@ Name: TheSaints-ShadowsTribute
 Date: 14DECEMBER
 Location: wissenkerke
 
-Name: WinterfairHaegseHuusStellendam
+Name: Feestavondin’tHaegseHuus
 Date: 14DECEMBER
 Location: stellendam
-
-Name: WorkshopnatuurfotografieopdeStrandhaak
-Date: 15DECEMBER
-Location: goedereede
 
 Name: Kerstconcert
 Date: 15DECEMBER
 Location: nieuwvliet
 
-Name: Meidenmiddagenkerstgalain'Melishof'
+Name: DefAmericans
 Date: 15DECEMBER
-Location: melissant
+Location: rilland
+
+Name: GloeiendePlaatindeHoutenKaap
+Date: 15DECEMBER
+Location: ouddorp
 
 Name: OrgelconcertArnovanWijk-GroteKerkGoes
 Date: 15DECEMBER
 Location: goes
 
-Name: DefAmericans
+Name: WorkshopnatuurfotografieopdeStrandhaak
 Date: 15DECEMBER
-Location: rilland
-
-Name: KievitWarmteStratentloopMiddelharnis
-Date: 15DECEMBER
-Location: middelharnis
+Location: goedereede
 
 Name: AdventsconcertNieuweKerk
 Date: 15DECEMBER
 Location: zierikzee
 
-Name: GloeiendePlaatindeHoutenKaap
+Name: KerstzangavondGospelkoorPerAmore
 Date: 15DECEMBER
 Location: ouddorp
 
@@ -1494,9 +1486,13 @@ Name: KerstzangavondDorpskerk
 Date: 15DECEMBER
 Location: ouddorp
 
-Name: KerstzangavondGospelkoorPerAmore
+Name: KievitWarmteStratentloopMiddelharnis
 Date: 15DECEMBER
-Location: ouddorp
+Location: middelharnis
+
+Name: Meidenmiddagenkerstgalain'Melishof'
+Date: 15DECEMBER
+Location: melissant
 
 Name: WintermarktBreskens
 Date: 16DECEMBER
@@ -1506,33 +1502,33 @@ Name: Kerstavondmetkoor
 Date: 18DECEMBER
 Location: goedereede
 
-Name: MOYABRENNAN–ThevoiceofClannad-CCXLTheater
-Date: 19DECEMBER
-Location: vlissingen
-
 Name: MoyaBrennan-TheVoiceofClannad
 Date: 19DECEMBER
 Location: ccxltheater
+
+Name: MOYABRENNAN–ThevoiceofClannad-CCXLTheater
+Date: 19DECEMBER
+Location: vlissingen
 
 Name: SfeervollewinterwandelingdoorSluis
 Date: 22T/M29DECZA
 Location: sluis
 
-Name: KerstconcertdeJongeLofstem
-Date: 22DECEMBER
-Location: sommelsdijk
-
 Name: KerstAchterDurp
 Date: 22DECEMBER
 Location: oud-vossemeer
 
-Name: CdPresentatieMerrow
-Date: 23DECEMBER
-Location: terneuzen
+Name: KerstconcertdeJongeLofstem
+Date: 22DECEMBER
+Location: sommelsdijk
 
 Name: Demeisjesmetdewijsjes
 Date: 23DECEMBER
 Location: rilland
+
+Name: CdPresentatieMerrow
+Date: 23DECEMBER
+Location: terneuzen
 
 Name: KerstconcertbroederDieleman-Zeeuws-Vlaamseeigenzinnigegospel
 Date: 23DECEMBER
@@ -1546,29 +1542,29 @@ Name: KerstnachtdienstenDoopsgezindekerk
 Date: 24DECEMBER
 Location: ouddorp
 
+Name: KerstnachtdienstGer.KerkOuddorp
+Date: 24DECEMBER
+Location: ouddorp
+
 Name: KerstnachtdienstGereformeerdeKerkStellendam
 Date: 24DECEMBER
 Location: stellendam
 
-Name: KerstnachtdienstGer.KerkOuddorp
-Date: 24DECEMBER
+Name: KerstvakantierittenmetdeRTM-tram
+Date: 26DECEMBER
 Location: ouddorp
 
 Name: ExcursieMeeuwenduinen
 Date: 26DECEMBER
 Location: burgh-haamstede
 
-Name: KerstconcertcarillonBelfort
-Date: 26DECEMBER
-Location: sluis
-
-Name: KerstvakantierittenmetdeRTM-tram
-Date: 26DECEMBER
-Location: ouddorp
-
 Name: KerstinSaeftinghe
 Date: 26DECEMBER
 Location: emmadorp(nieuw-namen)
+
+Name: KerstconcertcarillonBelfort
+Date: 26DECEMBER
+Location: sluis
 
 Name: KerstwandelinginOranjezon
 Date: 27DECEMBER
@@ -1662,73 +1658,29 @@ Name: Ierse(enSchotse)muziekCoolMCFinn
 Date: 16MAART
 Location: wissenkerke
 
-Name: DedagdatikRobertLongontmoette
-Date: 12APRIL
-Location: ccxltheater
-
 Name: DedagdatikRobertLongontmoette-CCXLTheater
 Date: 12APRIL
 Location: vlissingen
 
-Name: FestivalaanZeeRenesse
-Date: 6T/M8SEP
-Location: renesse
-
-Name: Toeristendag;grotebraderieinOuddorp
-Date: 24JULI
-Location: ouddorp
-
-Name: TheDireStraitsExperience-CCXLTheater
-Date: 24MEI
-Location: vlissingen
-
-Name: GoereeseHavenconcert
-Date: 7SEPTEMBER
-Location: goedereede
-
-Name: Strandgutsammler-WanderungfürKinder
-Date: 16T/M23OKTDI
-Location: cadzand-bad
-
-Name: SuffetuttenworkshopBezempimpen
-Date: 
-Location: goes
-
-Name: ErnestBeuving
+Name: DedagdatikRobertLongontmoette
 Date: 12APRIL
-Location: wissenkerke
-
-Name: HolleBolledaginSommelsdijk
-Date: 23AUGUSTUS
-Location: sommelsdijk
-
-Name: TrekkerbehendigheidswedstrijdenenBoerenbal
-Date: 6SEPTEMBER
-Location: ouddorp
+Location: ccxltheater
 
 Name: Roofvogel
 Date: 
 Location: wemeldinge
 
-Name: LadiesNightArnemuiden#2
-Date: 11SEPTEMBER
-Location: arnemuiden
-
-Name: Vogeldoorvogelvereniging'dePutter'
-Date: 30T/M1NOVVR,ZA
-Location: ouddorp
-
 Name: DELTALadiesNightRide
 Date: 14JUNI
 Location: goes
 
-Name: EngebureninHoutenKaap
-Date: 17MEI
-Location: ouddorp
+Name: TheDireStraitsExperience-CCXLTheater
+Date: 24MEI
+Location: vlissingen
 
-Name: PolderhuisQuizavond
-Date: 
-Location: westkapelle
+Name: RidefortheRoses
+Date: 15SEPTEMBER
+Location: goes
 
 Name: WhisperingSons
 Date: 8MAART
@@ -1738,67 +1690,107 @@ Name: DELTARidefortheRoseZVL
 Date: 15JUNI
 Location: terneuzen
 
-Name: Snuffelmarkt,voorjongenoud!
-Date: 7T/M8NOV
-Location: goes
+Name: FestivalaanZeeRenesse
+Date: 6T/M8SEP
+Location: renesse
 
-Name: ThankGodit'sDonna
-Date: 20APRIL
-Location: ccxltheater
+Name: PolderhuisQuizavond
+Date: 
+Location: westkapelle
 
 Name: Feest!!!DirkScheele(2+)-CCXLTheater
 Date: 19MEI
 Location: vlissingen
 
-Name: DamhertenOostkapelle
-Date: 
-Location: oostkapelle
-
-Name: RidefortheRoses
-Date: 15SEPTEMBER
-Location: goes
-
-Name: DELTALadiesNightRide
-Date: 14JUNI
-Location: goes
-
 Name: DrLektroluv+PingwingSoundsystem
 Date: 12OKTOBER
 Location: brugge
-
-Name: TheDireStraitsExperience
-Date: 24MEI
-Location: ccxltheater
 
 Name: DeRovers(3+)
 Date: 22APRIL
 Location: ccxltheater
 
-Name: DeRovers(3+)-CCXLTheater
-Date: 22APRIL
-Location: vlissingen
+Name: TheDireStraitsExperience
+Date: 24MEI
+Location: ccxltheater
 
-Name: GirodiSchouwen-Duiveland
-Date: 4AUGUSTUS
-Location: zierikzee
+Name: DamhertenOostkapelle
+Date: 
+Location: oostkapelle
+
+Name: BoerenlanddagOuddorp
+Date: 7SEPTEMBER
+Location: ouddorp
+
+Name: TrekkerbehendigheidswedstrijdenenBoerenbal
+Date: 6SEPTEMBER
+Location: ouddorp
+
+Name: HolleBolledaginSommelsdijk
+Date: 23AUGUSTUS
+Location: sommelsdijk
+
+Name: SuffetuttenworkshopBezempimpen
+Date: 
+Location: goes
+
+Name: Vogeldoorvogelvereniging'dePutter'
+Date: 30T/M1NOVVR,ZA
+Location: ouddorp
 
 Name: Feest!!metDirkScheele
 Date: 19MEI
 Location: ccxltheater
 
-Name: NKEredivisieZeilen
-Date: 
-Location: veere
+Name: Nijntjeopdefiets
+Date: 23MAART
+Location: kortgene
+
+Name: Snuffelmarkt,voorjongenoud!
+Date: 7T/M8NOV
+Location: goes
+
+Name: Toeristendag;grotebraderieinOuddorp
+Date: 24JULI
+Location: ouddorp
+
+Name: DELTALadiesNightRide
+Date: 14JUNI
+Location: goes
+
+Name: LadiesNightArnemuiden#2
+Date: 11SEPTEMBER
+Location: arnemuiden
+
+Name: GirodiSchouwen-Duiveland
+Date: 4AUGUSTUS
+Location: zierikzee
+
+Name: EngebureninHoutenKaap
+Date: 17MEI
+Location: ouddorp
 
 Name: GratiskayakvareninStellendam
 Date: 
 Location: stellendam
 
-Name: Nijntjeopdefiets
-Date: 23MAART
-Location: kortgene
+Name: NKEredivisieZeilen
+Date: 
+Location: veere
 
-Name: BoerenlanddagOuddorp
+Name: DeRovers(3+)-CCXLTheater
+Date: 22APRIL
+Location: vlissingen
+
+Name: ThankGodit'sDonna
+Date: 20APRIL
+Location: ccxltheater
+
+Name: ErnestBeuving
+Date: 12APRIL
+Location: wissenkerke
+
+Name: GoereeseHavenconcert
 Date: 7SEPTEMBER
-Location: ouddorp
+Location: goedereede
 
