@@ -99,15 +99,6 @@ def get_page_data(url):
 # Scrape form VVV Zeeland
 event_list = scrape_all_by_timer(url, 1)
 
-# Make .txt file
-event_text_file = open("events.txt", "w+")
-
-for e in event_list:
-    event_text_file.write(
-        "Name: " + e.name + "\n" + "Date: " + e.date + "\n" + "Location: " + e.location + "\n\n")
-
-event_text_file.close()
-
 # Make .csv file
 with open('events.csv', 'w+', newline='') as csvfile:
     reader = csv.reader(csvfile, quotechar='|')
