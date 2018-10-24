@@ -13,9 +13,9 @@ class Event:
         self.location = location
 
 
+# retrieve al attribute definitions from xml file
 tree = ET.parse('xml_files/vvv_zeeland.xml')
 root = tree.getroot()
-
 attr_list = root.findall('event')[0]
 event_name = attr_list.find('name').text
 date = attr_list.find('date').text
@@ -61,27 +61,29 @@ def get_events_from_page(page_url):
     return all_events
 
 
+# continuously retrieve html data from website pages and make event objects out of it
 def scrape_all_by_timer(url, timer):
     full_event_list = []
 
     x = 1
-    while x !=3:
+    while x !=39:
+
+        # add ?p parameter to url to request data from next page
         new_url = url + "?p=" + str(x)
         page_events = get_events_from_page(new_url)
         full_event_list += page_events
         x += 1
         print(new_url)
-        # print(page_events[1].name)
+
+        # sleep the thread to prevent sending to many requests in to short of a time
         time.sleep(timer)
 
-    for event in full_event_list:
-        print("Event name: " + event.name)
-
-    print(str(len(full_event_list)))
+    print("Retrieved: " + str(len(full_event_list)) + " events")
 
     return full_event_list
 
 
+# sends a request to url parameter and returns html result as a string
 def get_page_data(url):
     hdr = {
         'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
@@ -96,10 +98,10 @@ def get_page_data(url):
     return html_string.data
 
 
-# Scrape form VVV Zeeland
+# Scrape from VVV Zeeland
 event_list = scrape_all_by_timer(url, 1)
 
-# Make .csv file
+# Write events to csv file
 with open('events.csv', 'w+', newline='') as csvfile:
     reader = csv.reader(csvfile, quotechar='|')
     writer = csv.DictWriter(csvfile, fieldnames=['Name', 'Date', 'Location'])
