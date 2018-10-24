@@ -42,14 +42,14 @@ def get_events_from_page(page_url):
             actual_attr = ''
 
             for a in attribute:
-                actual_attr += a.get_text().replace(" ", "").replace("\n", "")
+                actual_attr += a.get_text()
 
             # hardcoded solution to remove type from location string
             actual_attr = actual_attr.replace('evenement','')
             actual_attr = actual_attr.replace('tentoonstelling', '')
             actual_attr = actual_attr.replace('excursie', '')
 
-            all_attr.append(actual_attr.strip())
+            all_attr.append(' '.join(actual_attr.split()))
 
         name = all_attr[0]
         event_date = all_attr[1]
@@ -65,7 +65,7 @@ def scrape_all_by_timer(url, timer):
     full_event_list = []
 
     x = 1
-    while x !=39:
+    while x !=3:
         new_url = url + "?p=" + str(x)
         page_events = get_events_from_page(new_url)
         full_event_list += page_events
