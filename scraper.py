@@ -1,8 +1,10 @@
 import xml.etree.ElementTree as ET
+
 import urllib3
 import time
 from bs4 import BeautifulSoup, SoupStrainer
 import csv
+import profitdateparser
 
 
 class Event:
@@ -55,8 +57,8 @@ def get_events_from_page(page_url):
         event_date = all_attr[1]
         loc = all_attr[2]
 
-        if name != '' and not event_date.__contains__("VANAF"):
-            all_events.append(Event(name, event_date, loc))
+        if event_date != '' and not profitdateparser.contains_blacklisted_phrases(event_date):
+            all_events.append(Event(name, profitdateparser.parse(event_date), loc))
 
     return all_events
 
@@ -66,7 +68,8 @@ def scrape_all_by_timer(url, timer):
     full_event_list = []
 
     x = 1
-    while x != 39:
+    number_of_pages = 20
+    while x != number_of_pages:
 
         # add ?p parameter to url to request data from next page
         new_url = url + "?p=" + str(x)
