@@ -29,6 +29,8 @@ url = attr_list.find('url').text
 
 def get_events_from_page(page_url):
     page_data = get_page_data(page_url)
+	
+	# make soup of html data with only our divs that contain the events
     soup = BeautifulSoup(page_data, features="lxml", parse_only=SoupStrainer(class_=data_container))
     attributes = [event_name, date, location]
     soup_list = list(soup)
@@ -97,7 +99,7 @@ def get_page_data(url):
         'Connection': 'keep-alive'}
 
     html_string = urllib3.PoolManager().request("GET", url, headers=hdr)
-
+	
     return html_string.data
 
 
