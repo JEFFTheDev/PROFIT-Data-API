@@ -4,8 +4,7 @@ import urllib3
 import time
 from bs4 import BeautifulSoup, SoupStrainer
 import csv
-import profitdateparser
-
+import profitdateparser as dp
 
 class Event:
 
@@ -29,18 +28,19 @@ url = attr_list.find('url').text
 
 def get_events_from_page(page_url):
     page_data = get_page_data(page_url)
-	
-	# make soup of html data with only our divs that contain the events
+
+    # make soup of html data with only our divs that contain the events
     soup = BeautifulSoup(page_data, features="lxml", parse_only=SoupStrainer(class_=data_container))
     attributes = [event_name, date, location]
     soup_list = list(soup)
     all_events = []
 
+    known_date = None
+
     for item in soup_list:
         new_s = BeautifulSoup(str(item), features="lxml")
 
         all_attr = []
-
         for attr in attributes:
             attribute = new_s.findAll(attrs={'class': attr}, recursive=True)
             actual_attr = ''
@@ -49,7 +49,7 @@ def get_events_from_page(page_url):
                 actual_attr += a.get_text()
 
             # hardcoded solution to remove type from location string
-            actual_attr = actual_attr.replace('evenement','')
+            actual_attr = actual_attr.replace('evenement', '')
             actual_attr = actual_attr.replace('tentoonstelling', '')
             actual_attr = actual_attr.replace('excursie', '')
 
@@ -59,8 +59,15 @@ def get_events_from_page(page_url):
         event_date = all_attr[1]
         loc = all_attr[2]
 
-        if event_date != '' and not profitdateparser.contains_blacklisted_phrases(event_date):
-            all_events.append(Event(name, profitdateparser.parse(event_date), loc))
+        if event_date != '' and not dp.contains_blacklisted_phrases(event_date):
+            if known_date is not None:
+                parsed_date = dp.guess_year(known_date, dp.parse(event_date))
+                known_date = parsed_date
+            else:
+                known_date = dp.parse(event_date)
+                parsed_date = known_date
+
+            all_events.append(Event(name, parsed_date, loc))
 
     return all_events
 
@@ -70,7 +77,7 @@ def scrape_all_by_timer(url, timer):
     full_event_list = []
 
     x = 1
-    number_of_pages = 20
+    number_of_pages = 33
     while x != number_of_pages:
 
         # add ?p parameter to url to request data from next page
@@ -99,7 +106,6 @@ def get_page_data(url):
         'Connection': 'keep-alive'}
 
     html_string = urllib3.PoolManager().request("GET", url, headers=hdr)
-	
     return html_string.data
 
 
