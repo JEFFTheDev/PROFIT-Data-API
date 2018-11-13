@@ -1,15 +1,15 @@
+import re
+import xml.etree.ElementTree as ET
 from datetime import *
-from dateutil.relativedelta import relativedelta
 
 import dateparser
-import xml.etree.ElementTree as ET
-import re
-
 
 tree = ET.parse('date_definitions/date_rules.xml')
 root = tree.getroot()
 blacklist = tree.find('blacklisted_phrases')
 unparsable_phrases = tree.find('unparsable_phrases')
+
+years_passed = 0
 
 
 def parse(date: str) -> datetime:
@@ -41,12 +41,10 @@ it returns the guessed date.
 
 
 def guess_year(known_date: datetime, date_to_guess: datetime) -> datetime:
-    delta_years = known_date.year - date_to_guess.year
-    date_to_guess += relativedelta(years=delta_years)
+    date_to_guess = date_to_guess.replace(year=known_date.year)
 
     # date to guess is always in the same year as known year, or in the year after
     if date_to_guess < known_date:
-        date_to_guess += relativedelta(years=1)
-        print("jaar had moeten veranderen")
+        date_to_guess = date_to_guess.replace(year=(known_date.year + 1))
 
     return date_to_guess

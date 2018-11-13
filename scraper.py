@@ -24,6 +24,7 @@ type_event = attr_list.find('type').text
 location = attr_list.find('location').text
 data_container = attr_list.find('data_container').text
 url = attr_list.find('url').text
+known_date = None
 
 
 def get_events_from_page(page_url):
@@ -35,9 +36,8 @@ def get_events_from_page(page_url):
     soup_list = list(soup)
     all_events = []
 
-    known_date = None
-
     for item in soup_list:
+        global known_date
         new_s = BeautifulSoup(str(item), features="lxml")
 
         all_attr = []
@@ -68,7 +68,6 @@ def get_events_from_page(page_url):
                 parsed_date = known_date
 
             all_events.append(Event(name, parsed_date, loc))
-
     return all_events
 
 
@@ -77,7 +76,7 @@ def scrape_all_by_timer(url, timer):
     full_event_list = []
 
     x = 1
-    number_of_pages = 33
+    number_of_pages = 34
     while x != number_of_pages:
 
         # add ?p parameter to url to request data from next page
