@@ -1,13 +1,9 @@
 <?xml version="1.0"?>
 <data>
-		<url>https://www.vvvzeeland.nl/nl/zien-en-doen/evenementen/zoeken/</url>
-		<data_container>card__whitebar</data_container>
-    <event>
-        <name position="0">-white card__title -dark-blue</name>
-		<date position="1">text__mini-caps card__mini-caps -beige</date>
-		<location position="1">tags__tag-link tags__tag-link--no-url</location>
+    <event class="card__whitebar">
+        <name class="-white card__title -dark-blue" position="0"/>
+        <date class="text__mini-caps card__mini-caps -beige" position="1"/>
+        <location class="tags__tag-link tags__tag-link--no-url" position="1"/>
     </event>
-	<parameters>
-		<scroll_page>?p</scroll_page>
-	</parameters>
+    <site url="https://www.vvvzeeland.nl/nl/zien-en-doen/evenementen/zoeken/" pageIndicator="?p"/>
 </data>

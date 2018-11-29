@@ -4,7 +4,7 @@ from datetime import *
 
 import dateparser
 
-tree = ET.parse('date_definitions/date_rules.xml')
+tree = ET.parse('dateformatting/date_rules.xml')
 root = tree.getroot()
 blacklist = tree.find('blacklisted_phrases')
 unparsable_phrases = tree.find('unparsable_phrases')
@@ -19,7 +19,7 @@ def parse(date: str) -> datetime:
     return parsed_date
 
 
-def contains_blacklisted_phrases(date: str):
+def is_blacklisted(date: str):
     for phrase in blacklist:
         if re.search(phrase.text, str(date), re.IGNORECASE):
             return True
@@ -41,7 +41,7 @@ it returns the guessed date.
 
 
 def guess_year(known_date: datetime, date_to_guess: datetime) -> datetime:
-    date_to_guess = date_to_guess.replace(year=known_date.year)
+    # date_to_guess = date_to_guess.replace(year=known_date.year)
 
     # date to guess is always in the same year as known year, or in the year after
     if date_to_guess < known_date:

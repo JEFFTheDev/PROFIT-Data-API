@@ -1,70 +1,61 @@
-import xml.etree.ElementTree as ET
+from python_objects.Event import Event
+from python_objects.ScrapeBlueprint import EventBlueprint
 
+import dateformatting.dateparser as dp
 import urllib3
 import time
-from bs4 import BeautifulSoup, SoupStrainer
+import bs4
 import csv
-import profitdateparser as dp
-
-
-class Event:
-
-    def __init__(self, name, date, location):
-        self.name = name
-        self.date = date
-        self.location = location
-
 
 # retrieve al attribute definitions from xml file
-tree = ET.parse('scrape_definitions/vvv_zeeland.xml')
-root = tree.getroot()
+blueprint = EventBlueprint('scrape_definitions/vvv_zeeland.xml')
 
-event_attributes = root.find('event')
-attr_list = root.findall('event')[0]
-event_name = attr_list.find('name').text
-date = attr_list.find('date').text
-# type_event = attr_list.find('type').text
-location = attr_list.find('location').text
-data_container = root.find('data_container').text
-url = root.find('url').text
-known_date = None
+
+def find_value_in_soup(soup, html_class, position):
+    value = ''
+    possible_values = list(soup.findAll(attrs={'class': html_class}, recursive=True))
+
+    if len(possible_values) > position:
+        value = possible_values[position].get_text().strip()
+
+    return None if value is '' else value
 
 
 def get_events_from_page(page_url):
     # gets html from a page
     page_data = get_page_data(page_url)
-    event_soup_list = list(BeautifulSoup(page_data, features="lxml", parse_only=SoupStrainer(class_=data_container)))
 
+    # makes a soup of all event containers
+    event_soup = bs4.BeautifulSoup(page_data, features="lxml",
+                                   parse_only=bs4.SoupStrainer(class_=blueprint.event_class))
+    # list that will be filled with events as they get processed
     processed_events = []
 
-    for event in event_soup_list:
-        event_values = dict()
+    # repeat for every event container
+    for event in list(event_soup):
 
-        for event_field in event_attributes:
-            position = int(event_field.attrib["position"])
-            event_soup = BeautifulSoup(str(event), features="lxml")
-            possible_values = event_soup.findAll(attrs={'class': event_field.text}, recursive=True)
+        # makes a soup for a single event
+        event_soup = bs4.BeautifulSoup(str(event), features="lxml")
 
-            if not len(possible_values) <= position:
-                event_values[event_field.tag] = possible_values[position].get_text().strip()
+        name = find_value_in_soup(event_soup, blueprint.name_class, blueprint.name_position)
+        date = find_value_in_soup(event_soup, blueprint.date_class, blueprint.date_position)
+        location = find_value_in_soup(event_soup, blueprint.location_class, blueprint.location_position)
 
-        if "date" in event_values and "name" in event_values and "location" in event_values:
-            if event_values["date"] != '' and not dp.contains_blacklisted_phrases(event_values["date"]):
-                processed_event = Event(event_values["name"], dp.parse(event_values["date"]), event_values["location"])
-                processed_events.append(processed_event)
+        # checks if the data is fit to be saved.
+        if name is not None and location is not None and date is not None and not dp.is_blacklisted(date):
+            processed_events.append(Event(name, dp.parse(date), location))
 
     return processed_events
 
 
 # continuously retrieve html data from website pages and make event objects out of it
-def scrape_all(url, time_out_time):
+def scrape_all(url, page_indicator, time_out_time):
     full_event_list = []
 
     x = 1
-    number_of_pages = 34
+    number_of_pages = 5
     while x != number_of_pages:
-        # add ?p parameter to url to request data from next page
-        new_url = url + "?p=" + str(x)
+        new_url = url + page_indicator + str(x)
 
         page_events = get_events_from_page(new_url)
         full_event_list += page_events
@@ -94,12 +85,12 @@ def get_page_data(url):
 
 
 # # Scrape from VVV Zeeland
-event_list = scrape_all(url, 1)
+event_list = scrape_all(blueprint.url, blueprint.url_page_indicator, 1)
 
 # Write events to csv file
-# with open('events.csv', 'w+', newline='') as csvfile:
-#     reader = csv.reader(csvfile, quotechar='|')
-#     writer = csv.DictWriter(csvfile, fieldnames=['Name', 'Date', 'Location'])
-#     writer.writeheader()
-#     for e in event_list:
-#         writer.writerow({'Name': e.name, 'Date': e.date, 'Location': e.location})
+with open('scrape_output/events.csv', 'w+', newline='') as csvfile:
+    reader = csv.reader(csvfile, quotechar='|')
+    writer = csv.DictWriter(csvfile, fieldnames=['Name', 'Date', 'Location'])
+    writer.writeheader()
+    for e in event_list:
+        writer.writerow({'Name': e.name, 'Date': e.date, 'Location': e.location})
