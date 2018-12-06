@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<data_notation>
+    <blacklisted_phrases>
+        <value>vanaf</value>
+        <value>t/m</value>
+    </blacklisted_phrases>
+    <unparsable_phrases>
+        <value>ma</value>
+        <value>di</value>
+        <value>wo</value>
+        <value>do</value>
+        <value>vr</value>
+        <value>za</value>
+        <value>zo</value>
+        <value>,</value>
+    </unparsable_phrases>
+</data_notation>

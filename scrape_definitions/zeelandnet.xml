@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<data>
+    <event class="list-item">
+        <name class="entry-title-span" position="0"/>
+        <date class="entry-date" position="0"/>
+        <location class="entry-location" position="0"/>
+    </event>
+    <site url="https://www.zeelandnet.nl/uitinzeeland/zoeken" pageIndicator="?p"/>
+</data>

@@ -1,87 +1,82 @@
-import xml.etree.ElementTree as ET
+from python_objects.Event import Event
+from python_objects.ScrapeBlueprint import EventBlueprint
 
+import dateformatting.dateparser as dp
 import urllib3
 import time
-from bs4 import BeautifulSoup, SoupStrainer
+import bs4 as bs
 import csv
-import profitdateparser
+
+# retrieve all attribute definitions from xml file
+blueprint = EventBlueprint('scrape_definitions/vvv_zeeland.xml')
+
+# flag gets set to true once pages no longer have events on them
+scraped_all_pages = False
 
 
-class Event:
+def find_value_in_soup(soup, html_class, position):
+    value = ''
 
-    def __init__(self, name, date, location):
-        self.name = name
-        self.date = date
-        self.location = location
+    #  finds all values with matching html class
+    possible_values = list(soup.findAll(attrs={'class': html_class}, recursive=True))
 
+    # checks if there are enough results to grab the one at the position you want
+    if len(possible_values) > position:
+        value = possible_values[position].get_text().strip()
 
-# retrieve al attribute definitions from xml file
-tree = ET.parse('scrape_definitions/vvv_zeeland.xml')
-root = tree.getroot()
-attr_list = root.findall('event')[0]
-event_name = attr_list.find('name').text
-date = attr_list.find('date').text
-type_event = attr_list.find('type').text
-location = attr_list.find('location').text
-data_container = attr_list.find('data_container').text
-url = attr_list.find('url').text
+    return None if value is '' else value
 
 
 def get_events_from_page(page_url):
+    # gets html from a page
     page_data = get_page_data(page_url)
-	
-	# make soup of html data with only our divs that contain the events
-    soup = BeautifulSoup(page_data, features="lxml", parse_only=SoupStrainer(class_=data_container))
-    attributes = [event_name, date, location]
-    soup_list = list(soup)
-    all_events = []
 
-    for item in soup_list:
-        new_s = BeautifulSoup(str(item), features="lxml")
+    # makes a soup of all event containers
+    event_soup = bs.BeautifulSoup(page_data, features="lxml", parse_only=bs.SoupStrainer(class_=blueprint.event_class))
 
-        all_attr = []
+    # list that will be filled with events as they get processed
+    processed_events = []
 
-        for attr in attributes:
-            attribute = new_s.findAll(attrs={'class': attr}, recursive=True)
-            actual_attr = ''
+    # checks if there are still events (event_soup will always contain at least 1 item)
+    if len(list(event_soup)) == 1:
+        global scraped_all_pages
+        scraped_all_pages = True
+        return processed_events
 
-            for a in attribute:
-                actual_attr += a.get_text()
+    # repeat for every event container
+    for event in list(event_soup):
 
-            # hardcoded solution to remove type from location string
-            actual_attr = actual_attr.replace('evenement','')
-            actual_attr = actual_attr.replace('tentoonstelling', '')
-            actual_attr = actual_attr.replace('excursie', '')
+        # makes a soup for a single event
+        event_soup = bs.BeautifulSoup(str(event), features="lxml")
 
-            all_attr.append(' '.join(actual_attr.split()))
+        name = find_value_in_soup(event_soup, blueprint.name_class, blueprint.name_position)
+        date = find_value_in_soup(event_soup, blueprint.date_class, blueprint.date_position)
+        location = find_value_in_soup(event_soup, blueprint.location_class, blueprint.location_position)
 
-        name = all_attr[0]
-        event_date = all_attr[1]
-        loc = all_attr[2]
+        # checks if the data is fit to be saved.
+        if not None in (name, location, date) and not dp.is_blacklisted(date):
+            date = dp.parse(date)
+            date = dp.change_date_to_future(date)
+            processed_events.append(Event(name, dp.parse(date), location))
 
-        if event_date != '' and not profitdateparser.contains_blacklisted_phrases(event_date):
-            all_events.append(Event(name, profitdateparser.parse(event_date), loc))
-
-    return all_events
+    return processed_events
 
 
 # continuously retrieve html data from website pages and make event objects out of it
-def scrape_all_by_timer(url, timer):
+def scrape_all(url, page_indicator, time_out_time):
     full_event_list = []
 
-    x = 1
-    number_of_pages = 20
-    while x != number_of_pages:
+    page = 1
+    while not scraped_all_pages:
+        new_url = url + page_indicator + str(page)
 
-        # add ?p parameter to url to request data from next page
-        new_url = url + "?p=" + str(x)
         page_events = get_events_from_page(new_url)
         full_event_list += page_events
-        x += 1
+        page += 1
         print(new_url)
 
         # sleep the thread to prevent sending to many requests in to short of a time
-        time.sleep(timer)
+        time.sleep(time_out_time)
 
     print("Retrieved: " + str(len(full_event_list)) + " events")
 
@@ -91,7 +86,8 @@ def scrape_all_by_timer(url, timer):
 # sends a request to url parameter and returns html result as a string
 def get_page_data(url):
     hdr = {
-        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
+        'User-Agent':
+        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
         'Accept-Encoding': 'none',
@@ -99,21 +95,16 @@ def get_page_data(url):
         'Connection': 'keep-alive'}
 
     html_string = urllib3.PoolManager().request("GET", url, headers=hdr)
-	
     return html_string.data
 
 
 # Scrape from VVV Zeeland
-event_list = scrape_all_by_timer(url, 1)
+event_list = scrape_all(blueprint.url, blueprint.url_page_indicator, 1)
 
 # Write events to csv file
-with open('events.csv', 'w+', newline='') as csvfile:
+with open('scrape_output/events.csv', 'w+', newline='') as csvfile:
     reader = csv.reader(csvfile, quotechar='|')
     writer = csv.DictWriter(csvfile, fieldnames=['Name', 'Date', 'Location'])
     writer.writeheader()
     for e in event_list:
         writer.writerow({'Name': e.name, 'Date': e.date, 'Location': e.location})
-
-
-
-
