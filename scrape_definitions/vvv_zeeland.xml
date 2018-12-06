@@ -5,5 +5,5 @@
         <date class="text__mini-caps card__mini-caps -beige" position="1"/>
         <location class="tags__tag-link tags__tag-link--no-url" position="1"/>
     </event>
-    <site url="https://www.vvvzeeland.nl/nl/zien-en-doen/evenementen/zoeken/" pageIndicator="?p"/>
+    <site url="https://www.vvvzeeland.nl/nl/zien-en-doen/evenementen/zoeken/" pageIndicator="?p="/>
 </data>
